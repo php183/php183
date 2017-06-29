@@ -13,7 +13,8 @@ class StuController extends Controller
      */
     public function index()
     {
-        return "列表页";
+        //
+        return '列表';
     }
 
     /**
@@ -23,7 +24,8 @@ class StuController extends Controller
      */
     public function create()
     {
-        return '执行添加';
+        //
+        return '添加列表';
     }
 
     /**
@@ -34,6 +36,7 @@ class StuController extends Controller
      */
     public function store(Request $request)
     {
+        //
         return '执行添加';
     }
 
@@ -45,7 +48,8 @@ class StuController extends Controller
      */
     public function show($id)
     {
-        return '详情页';
+        //
+        return '详情';
     }
 
     /**
@@ -55,9 +59,10 @@ class StuController extends Controller
      * @return \Illuminate\Http\Response
      */
     public function edit($id)
-    {   
-
-        return $id.'编辑表单';
+    {
+        //
+        echo $id;
+        return '编辑表单';
     }
 
     /**
@@ -69,7 +74,8 @@ class StuController extends Controller
      */
     public function update(Request $request, $id)
     {
-        return '执行更新';
+        //
+        return '执行修改';
     }
 
     /**
@@ -80,11 +86,7 @@ class StuController extends Controller
      */
     public function destroy($id)
     {
-        return 'delete';
-    }
-
-    public function myfunc(){
-
-            return '1';
+        //
+        return '删除';
     }
 }
