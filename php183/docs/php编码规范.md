@@ -1,344 +1,310 @@
-ÐÏà¡??                >  ?	                               ?ÿÿ        ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ?ÿÿ   ?ÿÿ   ?ÿÿ?ÿÿ      	   
-                                                                      !   "   #   $   %   &   '   (   )   *   +   ,   -   .   /   0   1   2   3   4   5   6   7   8   9   :   ;   <   =   F   ?   @   A   B   C   D   E   q   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z   [   \   ]   ^   _   `   a   b   c   d   e   f   g   h   i   j   k   l   m   n   o   p   ?ÿÿr   s   t   u   ?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿR o o t   E n t r y                                               ÿÿÿÿÿÿÿÿ   	     ?      F             È^]#ðÒ   ?       S u m m a r y I n f o r m a t i o n                           (       ÿÿÿÿ                                        ?       D o c u m e n t S u m m a r y I n f o r m a t i o n           8 ÿÿÿÿÿÿÿÿÿÿÿÿ                                       \      W o r d D o c u m e n t                                          ÿÿÿÿ   ÿÿÿÿ                                       2?                           ?ÿÿ	   
-            ?ÿÿ?ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ?                      à…ŸòùOh«‘ +'³Ù0   ?        p      €x      €      ?      ?      ?      ?                           ?             ?             A d m i n i s t r a t o r         N o r m a l . d o t m         A d m i n i s t r a t o r   @    ˜ûpóÏ@    ÷á\#ðÒ                       >   W P S   O f f i c e   NNHr_ 0 . 0 . 0 . 0 _ { F 1 E 3 2 7 B C - 2 6 9 C - 4 3 5 d - A 1 5 2 - 0 5 C 5 4 0 8 0 0 2 C A }                                                      ?                      ÕÍÕœ.“— +,ù®D   ÕÍÕœ.“— +,ù®?   €         H      €P      X      `      h      p      x              ?                                          ?          (      \      €d      l            K S O P r o d u c t B u i l d V e r        ?             2 0 5 2 - 1 0 . 1 . 0 . 6 5 5 4                                                                                                                                                                        0 T a b l e                                                             ÿÿÿÿ                                    >   ?      D a t a                                                         
- ÿÿÿÿÿÿÿÿÿÿÿÿ                                    ?ÿÿ        W p s C u s t o m D a t a                                         ÿÿÿÿÿÿÿÿÿÿÿÿ                                                                                                                  ÿÿÿÿÿÿÿÿÿÿÿÿ                                                ì¥? ‰ˆ	  P?             R   KSKS?                     2?          %                              ÿÿ         ÿÿ         ÿÿ                 ? ?  :  ?  :                                  ?                                             ?  L    |           ?  ?  Z  z                                                          ?                                             [  $   ?  h  ?  ^   ?                                                                                                                                     ?  ?                                                                                                                                                                                       V   6  @                                                                                                                                   v                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ™Qîv„v :N†Nôf}Y„vÐcØš€b/gè„vå]\OHe‡sÿÝOÁ‹ _ÑS„v	gHe'`ŒTTt'`ÿv^ïS g'Yz¦^„vÐcØšz^ãNx„vïSû‹'`ŒTïSÍ‘Y)R(u'`ÿcš[dkÄ‰?    H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " xÄ‰?     xÄ‰?    H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 1 - }TTÄ‰?     1   }TTÄ‰? 6Rš[ß~ N„v}TTÄ‰ƒù[ŽNy˜îv _ÑSegô‹^?^Í‘‰ÿNFOïSåN{Qbz^XT N*No‚}Y„v _ÑS`Nï`ÿØý€žX Rz^„vïSû‹'`0ïSûyi'`ŒTïSÍ‘(u'`ÿØý€ˆ_}Y„vÐcØšy˜îv _ÑS„vHe‡s0    H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 1 1 - ØSÏ‘}TT"     1 . 1   ØSÏ‘}TT ØSÏ‘}TTR:NnfØSÏ‘0Y?`ØSÏ‘0@\èØSÏ‘0hQ@\ØSÏ‘0S e s s i o n ØSÏ‘I{¹eb—„v}TTÄ‰R0    H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 1 1 1 - nfØSÏ‘"     1 . 1 . 1   nfØSÏ‘ nfØSÏ‘}TTuª_åNNÄ‰Rÿ  a ÿ  @b	gW[ÍkýO(u\™Qÿ  b ÿ  ù[ŽN N*NØSÏ‘O(uY*NUSÍ‹„vÿO(u _ ' \O:NÏk*NÍ‹„vô•”–0  ‹O‚Yÿ$ b a s e _ d i r 0$ r e d _ r o s e _ p r i c e I{    H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 1 1 2 - Y?`ØSÏ‘"     1 . 1 . 2   Y?`ØSÏ‘ Y?`ØSÏ‘}TTuª_åNNÄ‰Rÿ  a ÿ  Y?`ØSÏ‘O(u\™Q„vs _  _4Yÿ  b ÿ  Y?`ØSÏ‘@b	gW[ÍkýO(u\™Qÿ  c ÿ  Y*NUSÍ‹Ä~b„vØSÏ‘TO(u _ ' \O:NÏk*NÍ‹„vô•”–0  ‹OP[ÿ$ s _ b a s e _ d i r 0$ s _ r e d _ r o s e _ p r i s e I{0    H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 1 1 3 - @\èØSÏ‘"     1 . 1 . 3   @\èØSÏ‘ @\èØSÏ‘}TTuª_åNNÄ‰Rÿ  a ÿ  @b	gW[ÍkO(u\™Qÿ  b ÿ  ØSÏ‘O(u '  _4Yÿ  c ÿ  Y*NUSÍ‹Ä~b„v@\èØSÏ‘TO(u ' \O:NÏk*NÍ‹ô•„vô•”–0  ‹OP[ÿ$ _ b a s e _ d i r 0$ _ r e d _ r o s e _ p r i c e I{0    H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 1 1 4 hQ@\ØSÏ‘"     1 . 1 . 4 hQ@\ØSÏ‘ hQ@\ØSÏ‘”^å‹&^MR  g ' , åwS? N*NØSÏ‘„v\O(ußW/f^?^Í‘‰„v0  ‹O‚Y  g l o b a l   $ g L O G _ L E V E L ;   g l o b a l   $ g L O G _ P A T H ;     H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 1 1 5 - hQ@\8^Ï‘"     1 . 1 . 5   hQ@\8^Ï‘ hQ@\ØSÏ‘}TTuª_åNNÄ‰Rÿ  a ÿ  @b	gW[ÍkO(u'Y™Q  b ÿ  hQ@\ØSÏ‘Y*NUSÍ‹ô•O(u _ ' \O:Nô•”–0  ‹OP[ÿ$ B A S E _ D I R 0$ R E D _ R O S E _ P R I C E I{0    H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 1 1 6 - s e s s i o n ØSÏ‘"     1 . 1 . 6   s e s s i o n ØSÏ‘ s e s s i o n ØSÏ‘}TTuª_åNNÄ‰Rÿ  a ÿ  @b	gW[ÍkO(u'Y™Qÿ  b ÿ  s e s s i o n ØSÏ‘TO(u S _   _4Yÿ  c ÿ  Y*NUSÍ‹ô•O(u _ ' ô•”–0  ‹OP[ÿ$ S _ B A S E _ D I R 0$ S _ R E D _ R O S E _ P R I C E I{0    H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 1 2 - {|"     1 . 2   {| p h p -N{|}TTuª_åNNÄ‰Rÿ  a ÿ  åN'Y™QW[Ík _4Yÿ  b ÿ  Y*NUSÍ‹Ä~b„vØSÏ‘TÿUSÍ‹KNô•N(uô•”–ÿT*NUSÍ‹–™W[Ík'Y™Q0  ‹OP[ÿc l a s s   M y C l a s s   bc l a s s   D b O r a c l e I{0    H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 1 3 - ¹eÕlbýQpe"     1 . 3   ¹eÕlbýQpe ¹eÕlbýQpe}TTuª_åNNÄ‰Rÿ  a ÿ  –™W[Ík\™Qÿ  b ÿ  Y*NUSÍ‹ô•NO(uô•”–ÿd?{ N*NUSÍ‹YÿvQÖNUSÍ‹–™W[Ík'Y™Q0  ‹OP[ÿf u n c t i o n   m y F u n c t i o n   ( ) bf u n c t i o n   m y D b O r a c l e   ( ) I{0    H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 1 4 - )™QÍ‹"     1 . 4   )™QÍ‹ S_ØSÏ‘Tb€vQÖN}TT-NG?R)™QÍ‹öeÿÂSgqwQSO„v}TTÄ‰Rÿ€NÇ‘(u)™QÍ‹ŸSeg„vhQè'Y™Q„v¹e_0  ‹OP[ÿf u n c t i o n   m y P e a r ÿN/fm y P E A R 	ÿ  f u n c t i o   g e t H t m l S o u r c e ÿN/fg e t H T M L S o u r c e 	ÿ0    H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 1 5 - penc“^h?T"     1 . 5   penc“^h?T penc“^h?T}TTuª_åNNÄ‰?ÿ  a ÿ  h?TGWO(u\™QW[Íkÿ  b ÿ  ù[ŽNnfpench?ÿO(u_ t Ó~>\ÿ  c ÿ  ù[ŽNÆ‰þVÿO(u_ v Ó~>\ÿ  d ÿ  ù[ŽNY*NUSÍ‹Ä~b„vh?TÿO(u_ ô•”–ÿ  ‹OP[ÿu s e r _ i n f o _ t ŒTb o o k _ s t o r e _ v I{    H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 1 6 - penc“^W[µk"     1 . 6   penc“^W[µk penc“^W[µk}TTuª_åNNÄ‰?ÿ  a ÿ  hQèO(u\™Qÿ  b ÿ  Y*NUSÍ‹ô•O(u_ ô•”–0  ‹OP[ÿu s e r _ n a m e 0r o s e _ p r i c e I{0    H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 2 - fN™QÄ‰R"     2   fN™QÄ‰R fN™QÄ‰R/fc(W™Qp h p z^öeÿãNxfN™Q„vÄ‰RÿSìb)Û0Ó~„g§c6RI{¹eb—Ä??ÿ    H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 2 1 - ãNx)Û"     2 . 1   ãNx)Û (WfN™QãNx„vöePÿÅ_{˜èlaãNx„v)ÛÄ‰RÿbìNÄ‰š[ãNx)ÛÄ‰R‚YNÿ  a ÿ  O(u4 *Nzz<h\O:N)Ûÿ€NO(ut a b )Ûÿù[ŽNu l t r a e d i t ÿïSåNÛLˆ„˜HQ¾‹n	ÿ  ‹OP[ÿ  f o r   (   $ i = 0 ; $ i < $ c o u n t ; $ i + +   )   {   e c h o   " t e s t " ;   }     H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 2 2 - 'Yìb÷S- fN™QÄ‰R"     2 . 2   'Yìb÷S{   } fN™QÄ‰R (Wz^-NÛLˆÓ~„g§c6RãNx™Qÿ‚Yi f 0f o r 0w h i l e 0s w i t c h I{Ó~„gÿ'Yìb÷S Oß~„v	g$NÍyfN™Q`Nï`ÿR+R‚YNÿ  a ÿ{ ôv¥cß(W§c6Rí‹åSKNTÿNbcL?ÿ‚Y  f o r   ( $ i = 0 ; $ i < $ c o u n t ; $ i + + )   {   e c h o   " t e s t " ;   }   b ÿ{ (W§c6Rí‹åSN NL?ÿ‚Y  f o r ( $ i = 0 ; $ i < $ c o u n t ; $ i + + )   {   e c h o   " t e s t " ;   }   vQ-Nÿa /fP E A R ú^®‹„v¹e_ÿFO/fÎNž[E–fN™Q-Neg²‹ÿÙv^Nq_ÍTz^„vÄ‰ƒŒTq_ÍT(up h p d o c ž[°s‡echÿ@båNïSåN9hnc*NºN`Nï`egÇ‘(u
-Nb—„v$NÍy¹e_ÿFO/f‰Bl(WT N*Nz^-NÿêSO(uvQ-N NÍyÿåNMQ ?b–û‹„vN¹e¿O0    H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 2 3 - \ìb÷S- ŒTýQpe- sQ.•Í‹I{"     2 . 3   \ìb÷S(   ) ŒTýQpe0sQ.•Í‹I{ \ìb÷S0sQ.•Í‹ŒTýQpeuª_åNNÄ‰Rÿ  a ÿ  N‰Šb\ìb÷SŒTsQ.•Í?}4?W Nw?ÿ‰(u N*Nzz<hô•”–ÿ‚Yi f   (   $ a < $ b   ) ÿ  b ÿ  \ìb÷SŒTýQpeTô•¡l	gzz<hÿ‚Y$ t e s t   =   d a t e ( " y m d h i s " ) ÿ  c ÿ  d–^—Å_‰ÿN‰(WR e t u r n ÔÞVí‹åS-NO(u\ìb÷S0  ‚YR e t u r n   $ a ÿ    H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 2 4 - &{÷SfN™Q"     2 . 4   ÿ&{÷SfN™Q (Wz^-N= &{÷S„vfN™Quª_åNNÄ‰Rÿ  a ÿ  (W= &{÷S„v$N§OÿGW —YuúQ N*Nzz<hÿ‚Y$ a   =   $ b   0i f   ( $ a   =   =   $ b ) I{ÿ  b ÿ  (W N*N3ufWWÿb€ž[°sT7hŸRý€„v N*NWW-Nÿ‰Bl= ÷S=\Ï‘
-NNù[vQÿæ]¹ïSåN:N†NÝOcù[P?O(uY*Nzz<hÿ€óS¹‰Blzz N*Nzz<hÿ‚YN‹Oÿ  $ t e s t a   =   $ a a a ;   $ t e s t a a   =   $ b b b ;   $ t e s t a a a   =   $ c c c ;     H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 2 5 - i f - e l s e - s w i t h - f o r - w h i l e I{fN™Q"     2 . 5   i f   e l s e   s w i t h   f o r   w h i l e I{fN™Q ù[ŽN§c6RÓ~„g„vfN™Quª_åNNÄ‰Rÿ  a ÿ  (Wi f agöN$R­e-Nÿ‚Yœg(u0R8^Ï‘$R­eagöNÿ\8^Ï‘>e(WI{÷SbNI{÷S„væ]¹ÿ‹O‚Yÿ  i f   (   6   = =   $ e r r o r N u m   ) ÿàV:N‚Yœg`O(WI{_-No†N N*NI{÷Sÿí‹ÕlÀhåghVO:N`O¥b?ÿïSåNˆ_ë_~b0R•ï‹MOnÿÙ7h„v™QÕl‰Yèlaÿ  b ÿ  s w i t c h Ó~„g-NÅ_{˜?gd e f a u l t WWÿ  c ÿ  (Wf o r ŒTw i i l e „vª_¯sO(u-Nÿ‰f‹Õ`c o n t i n u e 0b r e a k „vO(uÿMQ§Nu{|<Og o t o „vî•˜˜ÿ    H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 2 6 - {|„v„g ýQpe"     2 . 6   {|„v„g ýQpe ‚Yœg‰(W{|Ì‘b?™Q„g ýQpeÿÅ_{˜uª_åNNÄ‰Rÿ  a ÿ  Ný€(W„g ýQpe-N	g*YYž[E–Íd\Oÿv?Y(uegRËYS N›N<PŒTØSÏ‘ÿ  b ÿ  Ný€(W„g ýQpe-NàV:NO(uÍd\O€ÔÞVf a l s e b€•ï?ÿàV:N(WðXfŒTž[‹OS N*Nù[aŒ„vöePÿ/fNý€ÔÞV•ï‹„vÿ    H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 2 7 - í‹åS­eL? ÏkLˆ§c6R(W8 0 *NW[&{åN…Q"     2 . 7   í‹åS­eL?   ÏkLˆ§c6R(W8 0 *NW[&{åN…Q (WãNxfN™Q-Nÿuª_åNNŸSRÿ  a ÿ  =\Ï‘ÝOÁ‹z^í‹åS NL?\/f NåSÿ€N‰©‹ NLˆí‹åS*Y•§Nu˜bL?ÿ  b ÿ  =\Ï‘N‰O NLˆ„vãNx*Y?ÿ N,‚§c6R(W8 0 *NW[&{åN…Qÿ  c ÿ  ‚Yœg NLˆãNx*Y?ÿ÷‹O(u{|<O  . =   „v¹e_­eLˆfN™Qÿ  d ÿ  ù[ŽNgbLˆpenc“^„vs q l í‹åSÍd\Oÿ=\Ï‘N‰(WýQpe…Q™Qs q l í‹åSÿ€HQ(uØSÏ‘š[INs q l í‹åSÿ6qT(WgbLˆÍd\O„výQpe-N?uš[IN„vØSÏ‘ÿ  ‹OP[ÿ  $ s q l   =   " S E L E C T   u s e r n a m e , p a s s w o r d , a d d r e s s , a g e , p o s t c o d e   F R O M   t e s t _ t   " ;   $ s q l   . =   "   W H E R E   u s e r n a m e = ' a a a ' " ;   $ r e s   =   m y s q l _ q u e r y ( $ s q l ) ;     H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 2 8 - N‰NïS`®‹„vpeW["     2 . 8   N‰NïS`®‹„vpeW[  N*N(WnãNx-NO(u†N„vdøˆøˆ„vpeW[/fNïS`®‹„vpeW[ÿàV:NSìb\O€ÿ(W	N*Ng…Qÿ¡lºNƒ[„v+TIN0‹O‚Yÿ i f   ( 2 2   = =   $ f o o )   {   s t a r t _ t h e r m o _ n u c l e a r _ w a r ( ) ;   }   e l s e   i f   ( 1 9   = =   $ f o o )   {   r e f u n d _ l o t s o _ m o n e y ( ) ;   }   e l s e   {   c r y _ c a u s e _ i m _ l o s t ( ) ;   }   `O”^å‹(ud e f i n e ( ) egÙ~`Oó`h?yÐg7hN‰„vpe<P N*Nwck„vTW[ÿ€N/fÇ‘(udøˆøˆ„vpeW[ÿ‹O‚Yÿ d e f i n e ( " P R E S I D E N T _ W E N T _ C R A Z Y " ,   " 2 2 " ) ;   d e f i n e ( " W E _ G O O F E D " ,   " 1 9 " ) ;   d e f i n e ( " T H E Y _ D I D N T _ P A Y " ,   " 1 6 " ) ;  i f   (   P R E S I D E N T _ W E N T _ C R A Z Y   = =   $ f o o )   {   s t a r t _ t h e r m o _ n u c l e a r _ w a r ( ) ;   }   e l s e   i f   ( W E _ G O O F E D   = =   $ f o o )   {   r e f u n d _ l o t s o _ m o n e y ( ) ;   }   e l s e   i f   ( T H E Y _ D I D N T _ P A Y   = =   $ f o o )   {   i n f i n i t e _ l o o p ( ) ;   }   e l s e   {   h a p p y _ d a y s _ i _ k n o w _ w h y _ i m _ h e r e ( ) ;   }     H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 2 9 - t r u e f a l s e ŒT0 1 $R­e"     2 . 9   t r u e / f a l s e ŒT0 / 1 $R­e uª_åNNÄ‰Rÿ  a ÿ  Ný€O(u0 / 1 ãNÿft r u e / f a l s e ÿ(WP H P -NÿÙ/fNøvI{„vÿ  b ÿ  N‰O(u^—ö–„vhˆ¾?_0ØSÏ‘b€¹eÕlôv¥cÛLˆt r u e / f a l s e $R­eÿ€Å_{?O(u%N<h„vŒ[tet r u e / f a l s e $R­eÿ  ‚YÿNO(ui f   ( $ a )   b€i f   ( c h e c k a ( ) )   €O(ui f   ( F A L S E   ! =   $ a ) b€  i f   ( F A L S E   ! =   c h e c k ( ) )     H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 2 1 0 - MQL]eQ_K?P"     2 . 1 0   MQL]eQ_K?P (Wz^-NMQNb—‹OP[-N„vL]eQ_K?Pÿ  NO(uÙ7h„v¹e_ÿ  w h i l e   ( $ a   ! =   ( $ c   =   g e t c h a r ( ) ) )   {   p r o c e s s   t h e   c h a r a c t e r   }     H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 2 1 1 - •ï‹ÔÞVÀhKmÄ‰R"     2 . 1 1   •ï‹ÔÞVÀhKmÄ‰R Àhåg@b	g„vû|ß~?u„v•ï‹áOo`ÿd–^—`O‰ý_eu•ï?0  :NÏkagû|ß~•ï‹ˆmo`š[IN}Yû|ß~•ï‹‡e,gÿv^°‹U_•ï‹L O G     H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 3 - z^èlÊ‘"     3   z^èlÊ‘ Ïk*Nz^GWÅ_{˜Ðc›OÅ_‰„vèlÊ‘ÿfN™QèlÊ‘‰BlÄ‰?ÿÂSgqP E A R Ðc›O„vèlÊ‘‰Blÿ:NÊNT)R(up h p d o c ubp h p ‡echZPÆQY0z^èlÊ‘„vŸSR‚YNÿ  a ÿ  èlÊ‘-Nd–†N‡eöN4Y„vèlÊ‘WWYÿvQÖN0W¹eýNO(u/ / èlÊ‘ÿ€O(u/ *   * / „vèlÊ‘ÿ  b ÿ  èlÊ‘…Q¹[Å_{˜™Q(W«ˆèlÊ‘ù[aŒ„vMRb?ÿN™Q(W NL?b€Tb?ÿ    H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 3 1 - z^4YèlÊ‘WW"     3 . 1   z^4YèlÊ‘WW Ïk*Nz^4YèÅ_{?gß~ N„vèlÊ‘WWÿÄ‰R‚YNÿ  a ÿ  Å_{?S+T,gz^„vÏcðÿ  b ÿ  Å_{?S+T\O€ÿ  c ÿ  Å_{?S+TfN™Qåegÿ  d ÿ  Å_{?S+THr,gáOo`ÿ  e ÿ  Å_{?S+Ty˜îvTðyÿ  f ÿ  Å_{?S+T‡eöN„vTðyÿ  g ÿ  Í‘‰„vO(uô‹fÿ‚Y{|„v?u¹eÕl0èla‹Ny˜I{ÿ  ÂS€‹OP[‚YNÿ < ? p h p   / /   / /   + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - +   / /   |   P H P   v e r s i o n   4 . 0   |   / /   + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - +   / /   |   C o p y r i g h t   ( c )   1 9 9 7 - 2 0 0 1   T h e   P H P   G r o u p   |   / /   + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - +   / /   |   T h i s   s o u r c e   f i l e   i s   s u b j e c t   t o   o f   t h e   P H P   l i c e n s e ,   |   / /   |   t h a t   i s   b u n d l e d   w i t h   t h i s   p a c k a f i l e   L I C E N S E ,   a n d   i s   |   / /   |   a v a i l a b l e   a t   t h r o u g h   t h e   w o r l d - w e b   a t   |   / /   |    H Y P E R L I N K   " h t t p : / / w w w . p h p . n e t / l i c e n s e / 2 _ 0 2 . t x t "    h t t p : / / w w w . p h p . n e t / l i c e n s e / 2 _ 0 2 . t x t  .   |   / /   |   I f   y o u   d i d   n o t   r e c e i v e   a   c o p y   o f   t h e   a n d   a r e   u n a b l e   t o   |   / /   |   o b t a i n   i t   t h r o u g h   t h e   w o r l d - w i d e - w e b , e n d   a   n o t e   t o   |   / /   |    H Y P E R L I N K   " m a i l t o : l i c e n s e @ p h p . n e t "    l i c e n s e @ p h p . n e t  ? s o   w e   c a n   m a i l   y o u   a   i m m e d i a t e l y .   |   / /   + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - +   / /   |   A u t h o r s :   S t i g   B a k k e n ?    H Y P E R L I N K   " m a i l t o : s s b @ f a s t . n o "    s s b @ f a s t . n o  ? |   / /   |   T o m a s   V . V . C o x ?    H Y P E R L I N K   " m a i l t o : c o x @ i d e c n e t . c o m "    c o x @ i d e c n e t . c o m  ? |   / /   |   |   / /   + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - +   / /   / /   $ I d :   C o m m o n . p h p , v   1 . 8 . 2 . 3   2 0 0 1 / 1 1 / 1 3   0 1 : 2 6 : 4 8   s s b   E x p   $   # # # 3 . 2   {|„vèlÊ‘  {|„vèlÊ‘Ç‘(uÌ‘b—„vÂS€‹OP[¹e_ÿ / * *  @   P u r p o s e :  ¿‹î•penc“^„v{|ÿåNO D B C \O:N?u¿‹î•¥cãS @ P a c k a g e   N a m e :   D a t a b a s e  @ A u t h o r :   F o r r e s t   G u m p ?    H Y P E R L I N K   " m a i l t o : g u m p @ c r t v u . e d u . c n "    g u m p @ c r t v u . e d u . c n   @ M o d i f i c a t i o n s :  N o 2 0 0 2 0 5 2 3 - 1 0 0 :  o d b c _ f e t c h _ i n t o ( ) ÂSpeMOn,{ŒNŒT,{	N*NMOnŒbc J o h n   J o h n s o n ?    H Y P E R L I N K   " m a i l t o : J o h n @ c r t v u . e d u . c n "    J o h n @ c r t v u . e d u . c n   @ S e e :   ( ÂSgq)   * /   c l a s s   D a t a b a s e   {   & &   }   # # # 3 . 3   ýQpeŒT¹eÕl„vèlÊ‘  ýQpeŒT¹eÕl„vèlÊ‘™Q(WýQpeŒT¹eÕl„vMRb?ÿÇ‘(u{|<ONb—‹OP[„vÄ‰Rÿ / * *  @ P u r p o s e :  gbL? N!kågâ‹ @ M e t h o d   N a m e :   Q u e r y ( )   @ P a r a m :   s t r i n g   $ q u e r y S t r   S Q L ågâ‹W[&{2N @ P a r a m :   s t r i n g   $ u s e r n a m e   (u7bT  @ A u t h o r :   M i c h a e l   L e e   @ R e t u r n :   m i x e d   ågâ‹ÔÞV<PÿÓ~œgÆ–ù[a?ÿ? /   f u n c t i o n ÿ$ q u e r y S t r , $ u s e r n a m e 	ÿ  { & & }   # # # 3 . 4   ØSÏ‘b€í‹åSèlÊ‘  z^-NØSÏ‘b€í‹åS„vèlÊ‘uª_åNNŸSRÿ  a ÿ  ™Q(WØSÏ‘b€í‹åS„vMRb? NL?ÿ€N™Q(WTL?b€Tb?ÿ  b ÿ  èlÊ‘Ç‘(u/ ? * / „v¹e_ÿ  c ÿ  Ïk*NýQpeMRb—?S+T N*NèlÊ‘WW0…Q¹[SìbýQpeŸRý€€{ðÿ“eQ/ “úQÂSpeÿ„˜g„vÔÞV<PÿúQ•ãNxš[IN0  d ÿ  èlÊ‘Œ[teÄ‰?0  e ÿ  Šbò]Ï~èlÊ‘‰c„vãNx Rd?ÿb€èlfÙ›Nò]Ï~èlÊ‘‰c„vãNxÍN6qÝOYu(Wnx-N„vyrŠkŸSàV0  f ÿ  ‹OP[ÿ / * *  @ P u r p o s e :  penc“^Þ¥c(u7bT @ A t t r i b u t e / V a r i a b l e   N a m e :   d b _ u s e r _ n a m e  @ T y p e :   s t r i n g   * /   v a r   d b _ u s e r _ n a m e ;     H Y P E R L I N K   " f i l e : / / / C : / U s e r s / A d m i n i s t r a t o r / A p p D a t a / L o c a l / Y o u d a o / Y N o t e / m a r k d o w n / i n d e x . h t m l "   \ l   " 4 - ØSÏ‘š[IN"     4   ØSÏ‘š[IN p h p ãNx™Q‰Bl@b	g„vØSÏ‘GW —‰HQ3ufTO(uÿ&TRO	g•ï‹áOo`ÿù[ŽNpeÄ~ÿ(WO(u N*NNnxš[„vk e y öeÿÔk‚YHQÛLˆi s s e t ( ) „v$R­eÿ6qTQO(uÿÔk‚YNb—„vãNxÿ  $ a r r a y   ÿ  a r r a y ( ) ;   $ v a r   ÿ  i s s e t ( $ a r r a y [ 3 ] )   ?   $ a r r a y [ 3 ]   :     ÿ ô‹fÿ,gÄ‰ƒyr:Np h p 1 8 3   ?=Nô‹èU-FUÎWy˜îv\Ä~6Rš[ÿ%NyµOCgÿ&TROÕlývz#ûNÿÿÿ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-  €  ?  ?  N	  P	  R	  äÊ¯”vY;              ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 2B*`J ph333 CJ OJ PJ QJ ^J aJ 56 @?  ;  5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ;  R	  Z	  \	  ^	  ,
-  .
-  0
-  <
-  >
-  äÉ«ŽpR7            5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ;  >
-  ?  ?  ?  ?  ?  ?  ?  ?  äÉ«ŽpR7            5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ;  ?        ?  ?  ?    
-  äÉ«ŽpR7            5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ;  
-  ?  ?  ?  ?  ?  ?  ?  ?  äÉ«ŽpR7            5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ;  ?  ?  ?  ?  b  d  f  z  |  äÉ«ŽpR7            5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ;  |  ?  ?  H  J  L         äÇ¬‘sV8        ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 90J B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ;     2  4  ?  ?  ?  ?  ?  ?  äÉ®“uX:            ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ;  ?  ?  ?  R  T  V  2  4  6  äÉ®“uX:            ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ;  6  T  V  *  ,  .  ?  ?  ?  äÉ®“uX:            ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ;  ?      ?  ?  ?  ?  ?  ?  äÉ®“uX:            ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ;  ?  ?  ?  ?  ?  ?  ^  `  b  äÉ®“uX:            ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ;  b  p  r  X  Z  \  .  0  2  äÉ®“uX:            ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ;  2  D  F  *  ,  .         äÉ®“uX:            ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ;   ÓËSYÓËSYÿÿÿÿÿÿÿÿÿ  ÞËSYÞËSYÿÿÿÿÿÿÿÿÿ  éËSYéËSYÿÿÿÿÿÿÿÿÿ                          „Ð^„Ð„˜þ`„˜?? ?CJ OJ QJ ^J  ·ð                        „ ^„ „˜þ`„˜?? ?CJ OJ QJ ^J  o                         „p^„p„˜þ`„˜?? pCJ OJ QJ ^J  §ð                        „@^„@„˜þ`„˜?? @CJ OJ QJ o( ^J  §ð                        ?^?„˜þ`„˜?? CJ OJ QJ o( ^J  §ð                        „à^„à„˜þ`„˜?? ?CJ OJ QJ o( ^J  §ð                        „°^„°„˜þ`„˜?? ?CJ OJ QJ o( ^J  §ð                        „€^„€„˜þ`„˜?? €CJ OJ QJ o( ^J  §ð                        „P^„P„˜þ`„˜?? PCJ OJ QJ o( ^J  §ð                        „Ð^„Ð„˜þ`„˜?? ?CJ OJ QJ o( ^J  ·ð                        „ ^„ „˜þ`„˜?? ?CJ OJ QJ o( ^J  o                         „p^„p„˜þ`„˜?? pCJ OJ QJ o( ^J  §ð                        „@^„@„˜þ`„˜?? @CJ OJ QJ o( ^J  §ð                        ?^?„˜þ`„˜?? CJ OJ QJ o( ^J  §ð                        „à^„à„˜þ`„˜?? ?CJ OJ QJ o( ^J  §ð                        „°^„°„˜þ`„˜?? ?CJ OJ QJ o( ^J  §ð                        „€^„€„˜þ`„˜?? €CJ OJ QJ o( ^J  §ð                        „P^„P„˜þ`„˜?? PCJ OJ QJ o( ^J  §ð                        „Ð^„Ð„˜þ`„˜?? ?CJ OJ QJ o( ^J  ·ð                        „ ^„ „˜þ`„˜?? ?CJ OJ QJ o( ^J  o                         „p^„p„˜þ`„˜?? pCJ OJ QJ o( ^J  §ð                        „@^„@„˜þ`„˜?? @CJ OJ QJ o( ^J  §ð                        ?^?„˜þ`„˜?? CJ OJ QJ o( ^J  §ð                        „à^„à„˜þ`„˜?? ?CJ OJ QJ o( ^J  §ð                        „°^„°„˜þ`„˜?? ?CJ OJ QJ o( ^J  §ð                        „€^„€„˜þ`„˜?? €CJ OJ QJ o( ^J  §ð                        „P^„P„˜þ`„˜?? PCJ OJ QJ o( ^J  §ð   ÓËSY            ÞËSY            éËSY            ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ         &                                                                                                                                                                                                                                                                     
-                                                                                                        6  6                                                     6  6  6  6                                                                                                                                                                                      6  6  ?  ?  ?  ?          0  @  P  `  p  €  ?  ?  ?  ?  ?       6  6  6  6     0  @  P  `  p  €  ?  ?  ?  ?  ?          0  @  P  `  p  €  ?  ?  ?  ?  ?          0  @  P  `  p  €  ?  ?  ?  ?  ?          0  @  P  `  p  €  ?  ?  ?  ?  ?          0  @  P  `  p  €  ?  ?  ?  ?  ?          0  @  P  `  p  €  ?  Z  @? Z           ck‡e     a$$1$  0 CJ OJ PJ QJ ^J  aJ KH mH	sH	nHtH_H  n @  n           h˜˜  2     a$ $ ¤d [$¤d \$6 CJ$ OJ PJ QJ o(^J aJ$ 5KH  mH	sH	nHtH_H n @  n           h˜˜  3     a$ $ ¤d [$¤d \$6 CJ OJ PJ QJ o(^J aJ 5KH  mH	sH	nHtH_H n @  n           h˜˜  4     a$ $ ¤d [$¤d \$6 CJ OJ PJ QJ o(^J aJ 5KH  mH	sH	nHtH_H           $ A@?? $           Øž¤‹µk=„W[SO    N i@?? N           nfh?h  ( :V 4?   4? l 4?   4? l           . U@? ? .            …þ”¥c   B*`J ph  ÿ >*  X@?             :_?   6   W@?             ‰¹p   5 h ^@ "h            nf? QÙz)   &  a$ $ ¤d [$¤d \$?  ^?  ?  ]?   CJ KH  mH	sH	nHtH_H    R	  >
-  ?  
-  ?  |     ?  6  ?  ?  b  2    r  ?        ?  ?  ?  n  p  r  äÉ®“uX:            ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ;  r  ~  €  ?  ?  ?  ?  ?  ?  äÉ®“uX:            ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ;  ?  ?  ?  ?  ?  ?  ?  ?  ?  äÉ®“uX:            ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ;  ?  ?  ?  ?  ?  ?  ?  ?  ?  äÉ®“uX:            ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ;  ?  ?  ?  '  '  '  ?  ?  ?  äÉ®“uX:            ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ;  ?  ?   (  h)  j)  l)  h*  j*  l*  äÉ®“uX:            ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ;  l*  ?  ?  P,  R,  T,  (-  *-  ,-  äÉ®“uX:            ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ;  ,-  @-  B-  &.  (.  *.  /  /  /  äÉ®“uX:            ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ;  /  D/  F/  ?  ?  ?  ?  ?  ?  äÉ®“uX:            ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ;  ?  ?  ?  3  3  h4  j4  *5  ,5  äÉ®“x]B'                                  5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ;  ,5  ?  ?  ?  ?  ?  ?  ?  ?  äÉ«ŽpR7            5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ;  ?  V9  X9  Z9  2:  4:  6:  N:  P:  äÉ«ŽpR7            5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ;  P:  ?  ?  ?  ?  ?  ?  ?  ?  äÉ«ŽpR7            5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ;  ?  `<  b<  d<  2=  4=  6=  B=  D=  äÉ«ŽpR7            5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ;  D=  d>  f>  h>  <?  >?  @?  T?  V?  äÉ«ŽpR7            5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ;  V?  b@  d@  ÄC  ÆC  (D  *D  pD  rD  äÉ®sU6    ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  ; U<0J B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  ;  ;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ;  rD  rE  tE  ¼E  ¾E  ÜE  ÞE  ÚF  äÆ©‹lN3                                                               5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  ; U<0J B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  ;  ;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ;  ÚF  ÜF  G  G  4G  6G  bG  dG  áÄ¦‡iN0                                                         ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  ; U5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  ; U<0J B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  ;  ;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  ; U dG  ¬G  ®G  ÌG  ÎG  I  I  I  I  âÄ¥‡lQ6          5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  ; U<0J B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  ;  ;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  ;   I  2I  4I  ^I  `I  ŽI  I  ¼I  ¾I  
-J  ? ? ? lE                IB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  eh    r?   ÿ    ; LB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  eh    r?   ÿ    ; U FB*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  eh    r?   ÿ    ;    FB*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  eh    r?   ÿ    ;    FB*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  eh    r?   ÿ    ;    FB*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  eh    r?   ÿ    ;   	
-J  J  .J  0J  2J  PJ  RJ  pJ  rJ  °J  Ø±? e @      FB*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  eh    r?   ÿ    ;    FB*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  eh    r?   ÿ    ;    FB*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  eh    r?   ÿ    ;    LB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  eh    r?   ÿ    ; U M0J B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  eh    r?   ÿ    ; LUB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  eh    r?   ÿ    ;   	°J  ²J  ÌJ  ÎJ  K  K  >K  @K  BK   Ú³Žg@       LB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  eh    r?   ÿ    ; U M0J B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  eh    r?   ÿ    ; LUB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  eh    r?   ÿ    ;  IB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  eh    r?   ÿ    ; LB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 5 6 >* @?  eh    r?   ÿ    ; U FB*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  eh    r?   ÿ    ;     BK  èK  êK  ðK  òK  L  L  L  L  >L  @L  BL  ? ¿¤€ [ 6                                                   FB*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  eh    r?   ÿ    ;    FB*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  eh    r?   ÿ    ;    FB*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  eh    r?   ÿ    ;  5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ;   FB*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  eh    r?   ÿ    ;   BL  „L  †L  ¾L  ÀL  ÂL  êL  ìL  îL  &M  N  ôN  ? ?  ?  jD      FB*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  eh    r?   ÿ    ;  J0J B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  eh    r?   ÿ    ;  FB*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  eh    r?   ÿ    ;      FB*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  eh    r?   ÿ    ;      FB*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  eh    r?   ÿ    ;    FB*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  eh    r?   ÿ    ;   ôN  öN  üN  þN  O  O  "O  $O  pO  rO  ¶O  ¸O   ãÈ?  Z 5                                                FB*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  eh    r?   ÿ    ;    FB*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  eh    r?   ÿ    ;    FB*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  eh    r?   ÿ    ;    FB*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  eh    r?   ÿ    ;  5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ;    ¸O  ºO  ˆP  ŠP  ŒP  ˜P  šP  ¶Q  ¸Q  áÄ¦ˆmR7            5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; 5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ; ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U;UB*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; 8B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ;  ;B*
-`J
- ph@x? CJ OJ PJ QJ o( ^J aJ 56 >* @?  ; U ¸Q  R  R  R  âÇ                                                                                                                                                                                                                                                                                                                                                                                            5B*`J ph333 CJ OJ PJ QJ o( ^J aJ 5 6 @?  ; 90J B*`J ph333 CJ OJ PJ QJ o( ^J aJ 56 @?  ;     
-  ?  \	  >
-  ?  ?  ?            ?            ?                        e            K                                                          d   1$$ $ $ ¤h[$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?  " d   1$$ $ $ &dP?îî?  ¤h[$ ¤ð \$ ?  ^?  ?  `?  " d   1$$ $ $ &dP?îî?  ¤h[$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?  " d   1$$ $ $ &dP?îî?  ?  [$ ¤ð \$ ?  ^?  ?  `?   ?    
-  ?  ?  ?  |  J  ?            ?            ?            ?            }            c            I                                     d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?    d   1$$ $ $ ¤h[$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?    d   1$$ $ $ ¤h[$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?    d   1$$ $ $ ¤h[$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?   J  4  ?  ?  T  V  ,    ?            ?            ?            ?            }            c            I                                     d   1$$ $ $ ¤h[$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?    d   1$$ $ $ ¤h[$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?    d   1$$ $ $ ¤h[$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?    d   1$$ $ $ ¤h[$ ¤ð \$ ?  ^?  ?  `?     ?  ?  ?  r  Z  F  ,  ?            ?            ?            ?            }            c            I                                     d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?    d   1$$ $ $ ¤h[$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?    d   1$$ $ $ ¤h[$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?    d   1$$ $ $ ¤h[$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?   ,    ?  €  ?  ?  ?  ?  ?            ?            ?            ?            u            [            A                     d   1$$ $ $ ¤h[$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?    d   1$$ $ $ ¤h[$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?  " d   1$$ $ $ &dP?îî?  ¤h[$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?    d   1$$ $ $ ¤h[$ ¤ð \$ ?  ^?  ?  `?   ?  ?  ?  '   (  j)  ?  R,  ?            ?            ?            ?            }            c            I                                     d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?    d   1$$ $ $ ¤h[$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?    d   1$$ $ $ ¤h[$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?    d   1$$ $ $ ¤h[$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?   R,  B-  (.  F/  ?  ?  3  j4  ?            ?            ?            ?            }            c            I                                     d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?    d   1$$ $ $ ¤h[$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?    d   1$$ $ $ ¤h[$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?    d   1$$ $ $ ¤h[$ ¤ð \$ ?  ^?  ?  `?   j4  ,5  ?  ?  X9  P:  ?  ?  ?            ?            ?            ?            }            c            I                                     d   1$$ $ $ ¤h[$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?    d   1$$ $ $ ¤h[$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?    d   1$$ $ $ ¤h[$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?   ?  b<  D=  f>  V?  d@  I  I  ?            ?            ?            ?            u            [            A                     d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?    d   1$$ $ $ ¤h[$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?  " d   1$$ $ $ &dP?îî?  ¤h[$ ¤ð \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?   I  4I  `I  I  2J  RJ  ?            ?            ?            k            F                                                                $  
-& F ?? d;  1$$ $ $ ? [$ ¤d \$„Ð^„Ð„˜þ`„˜?? ?  $  
-& F ?? d;  1$$ $ $ ? [$ ¤d \$„Ð^„Ð„˜þ`„˜?? ?  $  
-& F ?? d;  1$$ $ $ ? [$ ¤d \$„Ð^„Ð„˜þ`„˜?? ?  $  
-& F ?? d;  1$$ $ $ ? [$ ¤d \$„Ð^„Ð„˜þ`„˜?? ?  $  
-& F ?? d;  1$$ $ $ ¤d [$¤d \$„Ð^„Ð„˜þ`„˜?? ?  RJ  rJ  ²J  BK  êK  òK  ?            ?            ?            k            Q                                                                                       d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?   $  
-& F ?? d;  1$$ $ $ ? [$ ¤d \$„Ð^„Ð„˜þ`„˜?? ?  $  
-& F ?? d;  1$$ $ $ ? [$ ¤d \$„Ð^„Ð„˜þ`„˜?? ?  $  
-& F ?? d;  1$$ $ $ ? [$ ¤d \$„Ð^„Ð„˜þ`„˜?? ?  $  
-& F ?? d;  1$$ $ $ ? [$ ¤d \$„Ð^„Ð„˜þ`„˜?? ?  òK  L  L  @L  BL  †L  ?            ?            ?            k            F                                                                $  
-& F ?? d;  1$$ $ $ ? [$ ¤d \$„Ð^„Ð„˜þ`„˜?? ?  $  
-& F ?? d;  1$$ $ $ ? [$ ¤d \$„Ð^„Ð„˜þ`„˜?? ?  $  
-& F ?? d;  1$$ $ $ ? [$ ¤d \$„Ð^„Ð„˜þ`„˜?? ?  $  
-& F ?? d;  1$$ $ $ ? [$ ¤d \$„Ð^„Ð„˜þ`„˜?? ?  $  
-& F ?? d;  1$$ $ $ ¤d [$¤d \$„Ð^„Ð„˜þ`„˜?? ?  †L  ÀL  ÂL  ìL  îL  öN  ?            ?            ?            k            F                                                                $  
-& F ?? d;  1$$ $ $ ? [$ ¤d \$„Ð^„Ð„˜þ`„˜?? ?  $  
-& F ?? d;  1$$ $ $ ? [$ ¤d \$„Ð^„Ð„˜þ`„˜?? ?  $  
-& F ?? d;  1$$ $ $ ? [$ ¤d \$„Ð^„Ð„˜þ`„˜?? ?  $  
-& F ?? d;  1$$ $ $ ? [$ ¤d \$„Ð^„Ð„˜þ`„˜?? ?  $  
-& F ?? d;  1$$ $ $ ? [$ ¤d \$„Ð^„Ð„˜þ`„˜?? ?  öN  þN  O  $O  rO  ¸O  ?            ?            ?            v            Q                                                                                      $  
-& F ?? d;  1$$ $ $ ? [$ ¤d \$„Ð^„Ð„˜þ`„˜?? ?  $  
-& F ?? d;  1$$ $ $ ? [$ ¤d \$„Ð^„Ð„˜þ`„˜?? ?  $  
-& F ?? d;  1$$ $ $ ? [$ ¤d \$„Ð^„Ð„˜þ`„˜?? ?  $  
-& F ?? d;  1$$ $ $ ¤d [$¤d \$„Ð^„Ð„˜þ`„˜?? ?   d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?   ¸O  šP  ¸Q  R  R  ?            ?            ?            ?                                                                                                                                                                                                                                                                                       d;  1$$ $ $ ?  [$ ?  \$ ?  ^?  ?  `?    d;  1$$ $ $ ?  [$ ¤ð \$ ?  ^?  ?  `?  " d   1$$ $ $ &dP?îî?  ¤h[$ ¤ð \$ ?  ^?  ?  `?   0 °‚. °ÆA!?# "?$ %?  °S°à2P 1?/R                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ?  ?  ?  l*  ,-  /  ?  ,5  ?  P:  ?  D=  V?  rD  ÚF  dG  I  
-J  °J  BK  BL  ôN  ¸O  ¸Q  R  *   +   ,   -   .   /   0   1   2   3   4   5   6   7   8   9   :   ;   <   =   >   ?   @   A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R      ?  J    ,  ?  R,  j4  ?  I  RJ  òK  †L  öN  ¸O  R  S   T   U   V   W   X   Y   Z   [   \   ]   ^   _   `   a          %            G?  ‡z     €       ÿ      T i m e s   N e w   R o m a n   -??       ?             ‹[SO  ;?                             €    W i n g d i n g s   5?                     €    S y m b o l   ??  	ÿ* àCx ?       ÿ @  ÿÿC o u r i e r   N e w   ;?                              €    W i n g d i n g s   7$?  ÿ ?? @	       ?      C a l i b r i   [?                                   - a p p l e - s y s t e m   S e g o e   P r i n t   ÿÿ                A d m i n i s t r a t o r  A d m i n i s t r a t o r                        ? @?ÈQh    ?gÝåVg                                              ? @     Z & ! ) , . : ; ? ] } ? ? ??    & 6"0000	0000000ÿÿÿ	ÿÿÿÿÿÿ=ÿ@ÿ\ÿ]ÿ^ÿ?                                                                                                                ( [ { ?   0
-000000ÿÿ;ÿ[ÿ??                                                                ?? ? ?0                                                                                                 @   Àü?                          P    )? ?  ?                                      2                 € L$  L$        L$      L$               ?           niYz    %     ?    ÿÿÿÿ  ?     ?                      ðz    ?         ?    ?    	?                    
-?          ?    
-?        3 ?   ?  ÿ   ?  A   ?   ?   ?       m  ?  ?    x  y  ?  I  J  ?  1  2  ?      c  ?  ?  *  ?  ?    |  }  ?  N  O  ?  /	  0	  ?  
-  
-  ?       O  ?  ?  ?  Q  R  ?  K  L  v  ?  ?  ?  ?  ?  ?  4  5  )  ?  ?    ?  ?  ?  E  F  o  ?  ?  ?      ~  ?  ?  1  ?  ?  3  ?  ?  ?    8  ?  ?  ?  m  ?  ?  ?  ?  ?  ?  !  !  f!  ?  ?  ?  D$  E$  %  X?•€X?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆX?•ˆÿ@                                          
+# àËÒ×¹ºÏîÄ¿×é&±àÂë¹æ·¶
+##  ±àÐ´Ä¿µÄ
+
+ÎªÁË¸üºÃµÄÌá¸ß¼¼Êõ²¿µÄ¹¤×÷Ð§ÂÊ£¬±£Ö¤¿ª·¢µÄÓÐÐ§ÐÔºÍºÏÀíÐÔ£¬²¢¿É×î´ó³Ì¶ÈµÄÌá¸ß³ÌÐò´úÂëµÄ¿É¶ÁÐÔºÍ¿ÉÖØ¸´ÀûÓÃÐÔ£¬Ö¸¶¨´Ë¹æ·¶
+
+
+
+
+
+## ±àÂë¹æ·¶
+## 1 ÃüÃû¹æ·¶
+ÖÆ¶¨Í³Ò»µÄÃüÃû¹æ·¶¶ÔÓÚÏîÄ¿¿ª·¢À´Ëµ·Ç³£ÖØÒª£¬²»µ«¿ÉÒÔÑø³É³ÌÐòÔ±Ò»¸öÁ¼ºÃµÄ¿ª·¢Ï°¹ß£¬»¹ÄÜÔö¼Ó³ÌÐòµÄ¿É¶ÁÐÔ¡¢¿ÉÒÆÖ²ÐÔºÍ¿ÉÖØÓÃÐÔ£¬»¹ÄÜºÜºÃµÄÌá¸ßÏîÄ¿¿ª·¢µÄÐ§ÂÊ¡£
+### 1.1 ±äÁ¿ÃüÃû
+±äÁ¿ÃüÃû·ÖÎªÆÕÍ¨±äÁ¿¡¢¾²Ì¬±äÁ¿¡¢¾Ö²¿±äÁ¿¡¢È«¾Ö±äÁ¿¡¢Session±äÁ¿µÈ·½ÃæµÄÃüÃû¹æÔò¡£
+
+#### 1.1.1 ÆÕÍ¨±äÁ¿
+ÆÕÍ¨±äÁ¿ÃüÃû×ñÑ­ÒÔÏÂ¹æÔò£º
+a£® ËùÓÐ×ÖÄ¸¶¼Ê¹ÓÃÐ¡Ð´£»
+b£® ¶ÔÓÚÒ»¸ö±äÁ¿Ê¹ÓÃ¶à¸öµ¥´ÊµÄ£¬Ê¹ÓÃ¡¯_'×÷ÎªÃ¿¸ö´ÊµÄ¼ä¸ô¡£
+ÀýÈç£º$base_dir¡¢$red_rose_priceµÈ
+
+#### 1.1.2 ¾²Ì¬±äÁ¿
+¾²Ì¬±äÁ¿ÃüÃû×ñÑ­ÒÔÏÂ¹æÔò£º
+a£® ¾²Ì¬±äÁ¿Ê¹ÓÃÐ¡Ð´µÄs_¿ªÍ·£»
+b£® ¾²Ì¬±äÁ¿ËùÓÐ×ÖÄ¸¶¼Ê¹ÓÃÐ¡Ð´£»
+c£® ¶à¸öµ¥´Ê×é³ÉµÄ±äÁ¿ÃûÊ¹ÓÃ¡¯_'×÷ÎªÃ¿¸ö´ÊµÄ¼ä¸ô¡£
+Àý×Ó£º$s_base_dir¡¢$s_red_rose_priseµÈ¡£
+
+#### 1.1.3 ¾Ö²¿±äÁ¿
+¾Ö²¿±äÁ¿ÃüÃû×ñÑ­ÒÔÏÂ¹æÔò£º
+a£® ËùÓÐ×ÖÄ¸Ê¹ÓÃÐ¡Ð´£»
+b£® ±äÁ¿Ê¹ÓÃ¡¯_'¿ªÍ·£»
+c£® ¶à¸öµ¥´Ê×é³ÉµÄ¾Ö²¿±äÁ¿ÃûÊ¹ÓÃ¡¯_'×÷ÎªÃ¿¸ö´Ê¼äµÄ¼ä¸ô¡£
+Àý×Ó£º$_base_dir¡¢$_red_rose_priceµÈ¡£
+
+#### 1.1.4È«¾Ö±äÁ¿
+È«¾Ö±äÁ¿Ó¦¸Ã´øÇ°×º¡¯g',ÖªµÀÒ»¸ö±äÁ¿µÄ×÷ÓÃÓòÊÇ·Ç³£ÖØÒªµÄ¡£
+ÀýÈç
+global $gLOG_LEVEL;
+global $gLOG_PATH;
+
+#### 1.1.5 È«¾Ö³£Á¿
+È«¾Ö±äÁ¿ÃüÃû×ñÑ­ÒÔÏÂ¹æÔò£º
+a£® ËùÓÐ×ÖÄ¸Ê¹ÓÃ´óÐ´
+b£® È«¾Ö±äÁ¿¶à¸öµ¥´Ê¼äÊ¹ÓÃ¡¯_'×÷Îª¼ä¸ô¡£
+Àý×Ó£º$BASE_DIR¡¢$RED_ROSE_PRICEµÈ¡£
+
+#### 1.1.6 session±äÁ¿
+session±äÁ¿ÃüÃû×ñÑ­ÒÔÏÂ¹æÔò£º
+a£® ËùÓÐ×ÖÄ¸Ê¹ÓÃ´óÐ´£»
+b£® session±äÁ¿ÃûÊ¹ÓÃ¡¯S_¡¯¿ªÍ·£»
+c£® ¶à¸öµ¥´Ê¼äÊ¹ÓÃ¡¯_'¼ä¸ô¡£
+Àý×Ó£º$S_BASE_DIR¡¢$S_RED_ROSE_PRICEµÈ¡£
+
+### 1.2 Àà
+phpÖÐÀàÃüÃû×ñÑ­ÒÔÏÂ¹æÔò£º
+a£® ÒÔ´óÐ´×ÖÄ¸¿ªÍ·£»
+b£® ¶à¸öµ¥´Ê×é³ÉµÄ±äÁ¿Ãû£¬µ¥´ÊÖ®¼ä²»ÓÃ¼ä¸ô£¬¸÷¸öµ¥´ÊÊ××ÖÄ¸´óÐ´¡£
+Àý×Ó£ºclass MyClass »òclass DbOracleµÈ¡£
+
+### 1.3 ·½·¨»òº¯Êý
+·½·¨»òº¯ÊýÃüÃû×ñÑ­ÒÔÏÂ¹æÔò£º
+a£® Ê××ÖÄ¸Ð¡Ð´£»
+b£® ¶à¸öµ¥´Ê¼ä²»Ê¹ÓÃ¼ä¸ô£¬³ýµÚÒ»¸öµ¥´ÊÍâ£¬ÆäËûµ¥´ÊÊ××ÖÄ¸´óÐ´¡£
+Àý×Ó£ºfunction myFunction ()»òfunction myDbOracle ()µÈ¡£
+
+### 1.4 ËõÐ´´Ê
+µ±±äÁ¿Ãû»òÕßÆäËûÃüÃûÖÐÓöµ½ËõÐ´´ÊÊ±£¬²ÎÕÕ¾ßÌåµÄÃüÃû¹æÔò£¬¶ø²»²ÉÓÃËõÐ´´ÊÔ­À´µÄÈ«²¿´óÐ´µÄ·½Ê½¡£
+Àý×Ó£ºfunction myPear£¨²»ÊÇmyPEAR£© functio getHtmlSource£¨²»ÊÇgetHTMLSource£©¡£
+
+### 1.5 Êý¾Ý¿â±íÃû
+Êý¾Ý¿â±íÃûÃüÃû×ñÑ­ÒÔÏÂ¹æ·¶£º
+a£® ±íÃû¾ùÊ¹ÓÃÐ¡Ð´×ÖÄ¸£»
+b£® ¶ÔÓÚÆÕÍ¨Êý¾Ý±í£¬Ê¹ÓÃ_t½áÎ²£»
+c£® ¶ÔÓÚÊÓÍ¼£¬Ê¹ÓÃ_v½áÎ²£»
+d£® ¶ÔÓÚ¶à¸öµ¥´Ê×é³ÉµÄ±íÃû£¬Ê¹ÓÃ_¼ä¸ô£»
+Àý×Ó£ºuser_info_tºÍbook_store_vµÈ
+
+### 1.6 Êý¾Ý¿â×Ö¶Î
+Êý¾Ý¿â×Ö¶ÎÃüÃû×ñÑ­ÒÔÏÂ¹æ·¶£º
+a£® È«²¿Ê¹ÓÃÐ¡Ð´£»
+b£® ¶à¸öµ¥´Ê¼äÊ¹ÓÃ_¼ä¸ô¡£
+Àý×Ó£ºuser_name¡¢rose_priceµÈ¡£
+## 2 ÊéÐ´¹æÔò
+ÊéÐ´¹æÔòÊÇÖ¸ÔÚ±àÐ´php³ÌÐòÊ±£¬´úÂëÊéÐ´µÄ¹æÔò£¬°üÀ¨Ëõ½ø¡¢½á¹¹¿ØÖÆµÈ·½Ãæ¹æ·¶£º
+
+### 2.1 ´úÂëËõ½ø
+ÔÚÊéÐ´´úÂëµÄÊ±ºò£¬±ØÐë×¢Òâ´úÂëµÄËõ½ø¹æÔò£¬ÎÒÃÇ¹æ¶¨´úÂëËõ½ø¹æÔòÈçÏÂ£º
+a£® Ê¹ÓÃ4¸ö¿Õ¸ñ×÷ÎªËõ½ø£¬¶ø²»Ê¹ÓÃtabËõ½ø£¨¶ÔÓÚultraedit£¬¿ÉÒÔ½øÐÐÔ¤ÏÈÉèÖÃ£©
+Àý×Ó£º
+```
+for ( $i=0;$i<$count;$i++ )
+{
+echo "test";
+}
+```
+### 2.2 ´óÀ¨ºÅ{ }ÊéÐ´¹æÔò
+ÔÚ³ÌÐòÖÐ½øÐÐ½á¹¹¿ØÖÆ´úÂë±àÐ´£¬Èçif¡¢for¡¢while¡¢switchµÈ½á¹¹£¬´óÀ¨ºÅ´«Í³µÄÓÐÁ½ÖÖÊéÐ´Ï°¹ß£¬·Ö±ðÈçÏÂ£º
+a£®{Ö±½Ó¸úÔÚ¿ØÖÆÓï¾äÖ®ºó£¬²»»»ÐÐ£¬Èç
+```
+for ($i=0;$i<$count;$i++) {
+echo "test";
+}
+```
+b£®{ÔÚ¿ØÖÆÓï¾äÏÂÒ»ÐÐ£¬Èç
+```
+for($i=0;$i<$count;$i++)
+{
+echo "test";
+}
+```
+ÆäÖÐ£¬aÊÇPEAR½¨ÒéµÄ·½Ê½£¬µ«ÊÇ´ÓÊµ¼ÊÊéÐ´ÖÐÀ´½²£¬Õâ²¢²»Ó°Ïì³ÌÐòµÄ¹æ·¶ºÍÓ°ÏìÓÃphpdocÊµÏÖÎÄµµ£¬ËùÒÔ¿ÉÒÔ¸ù¾Ý¸öÈËÏ°¹ßÀ´²ÉÓÃÉÏÃæµÄÁ½ÖÖ·½Ê½£¬µ«ÊÇÒªÇóÔÚÍ¬Ò»¸ö³ÌÐòÖÐ£¬Ö»Ê¹ÓÃÆäÖÐÒ»ÖÖ£¬ÒÔÃâÔì³ÉÔÄ¶ÁµÄ²»·½±ã¡£
+
+### 2.3 Ð¡À¨ºÅ( )ºÍº¯Êý¡¢¹Ø¼ü´ÊµÈ
+Ð¡À¨ºÅ¡¢¹Ø¼ü´ÊºÍº¯Êý×ñÑ­ÒÔÏÂ¹æÔò£º
+a£® ²»Òª°ÑÐ¡À¨ºÅºÍ¹Ø¼ü´Ê½ôÌùÔÚÒ»Æð£¬ÒªÓÃÒ»¸ö¿Õ¸ñ¼ä¸ô£»Èçif ( $a<$b )£»
+b£® Ð¡À¨ºÅºÍº¯ÊýÃû¼äÃ»ÓÐ¿Õ¸ñ£»Èç$test = date("ymdhis")£»
+c£® ³ý·Ç±ØÒª£¬²»ÒªÔÚReturn·µ»ØÓï¾äÖÐÊ¹ÓÃÐ¡À¨ºÅ¡£ ÈçReturn $a£»
+
+### 2.4 £½·ûºÅÊéÐ´
+ÔÚ³ÌÐòÖÐ=·ûºÅµÄÊéÐ´×ñÑ­ÒÔÏÂ¹æÔò£º
+a£® ÔÚ=·ûºÅµÄÁ½²à£¬¾ùÐèÁô³öÒ»¸ö¿Õ¸ñ£»Èç$a = $b ¡¢if ($a = = $b)µÈ£»
+b£® ÔÚÒ»¸öÉêÃ÷¿é£¬»òÕßÊµÏÖÍ¬Ñù¹¦ÄÜµÄÒ»¸ö¿éÖÐ£¬ÒªÇó=ºÅ¾¡Á¿ÉÏÏÂ¶ÔÆä£¬×ó±ß¿ÉÒÔÎªÁË±£³Ö¶ÔÆëÊ¹ÓÃ¶à¸ö¿Õ¸ñ£¬¶øÓÒ±ßÒªÇó¿ÕÒ»¸ö¿Õ¸ñ£»ÈçÏÂÀý£º
+$testa = $aaa;
+$testaa = $bbb;
+$testaaa = $ccc;
+
+### 2.5 if else swith for whileµÈÊéÐ´
+¶ÔÓÚ¿ØÖÆ½á¹¹µÄÊéÐ´×ñÑ­ÒÔÏÂ¹æÔò£º
+a£® ÔÚifÌõ¼þÅÐ¶ÏÖÐ£¬Èç¹ûÓÃµ½³£Á¿ÅÐ¶ÏÌõ¼þ£¬½«³£Á¿·ÅÔÚµÈºÅ»ò²»µÈºÅµÄ×ó±ß£¬ÀýÈç£º
+if ( 6 == $errorNum )£¬ÒòÎªÈç¹ûÄãÔÚµÈÊ½ÖÐÂ©ÁËÒ»¸öµÈºÅ£¬Óï·¨¼ì²éÆ÷»áÎªÄã±¨´í£¬¿ÉÒÔºÜ¿ìÕÒµ½´íÎóÎ»ÖÃ£¬ÕâÑùµÄÐ´·¨Òª¶à×¢Òâ£»
+b£® switch½á¹¹ÖÐ±ØÐëÒªÓÐdefault¿é£»
+c£® ÔÚforºÍwiileµÄÑ­»·Ê¹ÓÃÖÐ£¬Òª¾¯Ìècontinue¡¢breakµÄÊ¹ÓÃ£¬±ÜÃâ²úÉúÀàËÆgotoµÄÎÊÌâ£»
+
+### 2.6 ÀàµÄ¹¹Ôìº¯Êý
+Èç¹ûÒªÔÚÀàÀïÃæ±àÐ´¹¹Ôìº¯Êý£¬±ØÐë×ñÑ­ÒÔÏÂ¹æÔò£º
+a£® ²»ÄÜÔÚ¹¹Ôìº¯ÊýÖÐÓÐÌ«¶àÊµ¼Ê²Ù×÷£¬¶¥¶àÓÃÀ´³õÊ¼»¯Ò»Ð©ÖµºÍ±äÁ¿£»
+b£® ²»ÄÜÔÚ¹¹Ôìº¯ÊýÖÐÒòÎªÊ¹ÓÃ²Ù×÷¶ø·µ»Øfalse»òÕß´íÎó£¬ÒòÎªÔÚÉùÃ÷ºÍÊµÀý»¯Ò»¸ö¶ÔÏóµÄÊ±ºò£¬ÊÇ²»ÄÜ·µ»Ø´íÎóµÄ£»
+
+### 2.7 Óï¾ä¶ÏÐÐ, Ã¿ÐÐ¿ØÖÆÔÚ80¸ö×Ö·ûÒÔÄÚ
+ÔÚ´úÂëÊéÐ´ÖÐ£¬×ñÑ­ÒÔÏÂÔ­Ôò£º
+a£® ¾¡Á¿±£Ö¤³ÌÐòÓï¾äÒ»ÐÐ¾ÍÊÇÒ»¾ä£¬¶ø²»ÒªÈÃÒ»ÐÐÓï¾äÌ«³¤²úÉúÕÛÐÐ£»
+b£® ¾¡Á¿²»ÒªÊ¹Ò»ÐÐµÄ´úÂëÌ«³¤£¬Ò»°ã¿ØÖÆÔÚ80¸ö×Ö·ûÒÔÄÚ£»
+c£® Èç¹ûÒ»ÐÐ´úÂëÌ«³¤£¬ÇëÊ¹ÓÃÀàËÆ .= µÄ·½Ê½¶ÏÐÐÊéÐ´£»
+d£® ¶ÔÓÚÖ´ÐÐÊý¾Ý¿âµÄsqlÓï¾ä²Ù×÷£¬¾¡Á¿²»ÒªÔÚº¯ÊýÄÚÐ´sqlÓï¾ä£¬¶øÏÈÓÃ±äÁ¿¶¨ÒåsqlÓï¾ä£¬È»ºóÔÚÖ´ÐÐ²Ù×÷µÄº¯ÊýÖÐµ÷ÓÃ¶¨ÒåµÄ±äÁ¿£»
+Àý×Ó£º
+```
+$sql = "SELECT username,password,address,age,postcode FROM test_t ";
+$sql .= " WHERE username='aaa'";
+$res = mysql_query($sql);
+```
+### 2.8 ²»Òª²»¿ÉË¼ÒéµÄÊý×Ö
+Ò»¸öÔÚÔ´´úÂëÖÐÊ¹ÓÃÁËµÄ³àÂãÂãµÄÊý×ÖÊÇ²»¿ÉË¼ÒéµÄÊý×Ö£¬ÒòÎª°üÀ¨×÷Õß£¬ÔÚÈý¸öÔÂÄÚ£¬Ã»ÈËËüµÄº¬Òå¡£ÀýÈç£º
+```
+if      (22 == $foo) 
+{
+start_thermo_nuclear_war(); 
+}
+else if (19 == $foo)
+{
+refund_lotso_money(); 
+}
+else
+{
+cry_cause_im_lost(); 
+}
+```
+ÄãÓ¦¸ÃÓÃdefine()À´¸øÄãÏë±íÊ¾Ä³Ñù¶«Î÷µÄÊýÖµÒ»¸öÕæÕýµÄÃû×Ö£¬¶ø²»ÊÇ²ÉÓÃ³àÂãÂãµÄÊý×Ö£¬ÀýÈç£º
+```
+define("PRESIDENT_WENT_CRAZY", "22");
+define("WE_GOOFED", "19");
+define("THEY_DIDNT_PAY", "16");
+ 
+if ( PRESIDENT_WENT_CRAZY == $foo) 
+{ 
+start_thermo_nuclear_war(); 
+}
+else if (WE_GOOFED == $foo) 
+{
+refund_lotso_money(); 
+}
+else if (THEY_DIDNT_PAY == $foo)
+{
+infinite_loop(); 
+}
+else
+{
+happy_days_i_know_why_im_here(); 
+}
+```
+### 2.9 true/falseºÍ0/1ÅÐ¶Ï
+×ñÑ­ÒÔÏÂ¹æÔò£º
+a£® ²»ÄÜÊ¹ÓÃ0/1´úÌætrue/false£¬ÔÚPHPÖÐ£¬ÕâÊÇ²»ÏàµÈµÄ£»
+b£® ²»ÒªÊ¹ÓÃ·ÇÁãµÄ±í´ïÊ½¡¢±äÁ¿»òÕß·½·¨Ö±½Ó½øÐÐtrue/falseÅÐ¶Ï£¬¶ø±ØÐëÊ¹ÓÃÑÏ¸ñµÄÍêÕûtrue/falseÅÐ¶Ï£»
+Èç£º²»Ê¹ÓÃif ($a) »òÕßif (checka()) ¶øÊ¹ÓÃif (FALSE != $a)»òÕß if (FALSE != check())
+
+### 2.10 ±ÜÃâÇ¶ÈëÊ½¸³Öµ
+ÔÚ³ÌÐòÖÐ±ÜÃâÏÂÃæÀý×ÓÖÐµÄÇ¶ÈëÊ½¸³Öµ£º
+²»Ê¹ÓÃÕâÑùµÄ·½Ê½£º
+```
+while ($a != ($c = getchar()))
+{
+process the character
+}
+```
+### 2.11 ´íÎó·µ»Ø¼ì²â¹æÔò
+¼ì²éËùÓÐµÄÏµÍ³µ÷ÓÃµÄ´íÎóÐÅÏ¢£¬³ý·ÇÄãÒªºöÂÔ´íÎó¡£
+ÎªÃ¿ÌõÏµÍ³´íÎóÏûÏ¢¶¨ÒåºÃÏµÍ³´íÎóÎÄ±¾£¬²¢¼ÇÂ¼´íÎóLOG 
+## 3 ³ÌÐò×¢ÊÍ
+Ã¿¸ö³ÌÐò¾ù±ØÐëÌá¹©±ØÒªµÄ×¢ÊÍ£¬ÊéÐ´×¢ÊÍÒªÇó¹æ·¶£¬²ÎÕÕPEARÌá¹©µÄ×¢ÊÍÒªÇó£¬Îª½ñºóÀûÓÃphpdocÉú³ÉphpÎÄµµ×ö×¼±¸¡£³ÌÐò×¢ÊÍµÄÔ­ÔòÈçÏÂ£º
+a£® ×¢ÊÍÖÐ³ýÁËÎÄ¼þÍ·µÄ×¢ÊÍ¿éÍâ£¬ÆäËûµØ·½¶¼²»Ê¹ÓÃ//×¢ÊÍ£¬¶øÊ¹ÓÃ/* */µÄ×¢ÊÍ£»
+b£® ×¢ÊÍÄÚÈÝ±ØÐëÐ´ÔÚ±»×¢ÊÍ¶ÔÏóµÄÇ°Ãæ£¬²»Ð´ÔÚÒ»ÐÐ»òÕßºóÃæ£»
+
+### 3.1 ³ÌÐòÍ·×¢ÊÍ¿é
+Ã¿¸ö³ÌÐòÍ·²¿±ØÐëÓÐÍ³Ò»µÄ×¢ÊÍ¿é£¬¹æÔòÈçÏÂ£º
+a£® ±ØÐë°üº¬±¾³ÌÐòµÄÃèÊö£»
+b£® ±ØÐë°üº¬×÷Õß£»
+c£® ±ØÐë°üº¬ÊéÐ´ÈÕÆÚ£»
+d£® ±ØÐë°üº¬°æ±¾ÐÅÏ¢£»
+e£® ±ØÐë°üº¬ÏîÄ¿Ãû³Æ£»
+f£® ±ØÐë°üº¬ÎÄ¼þµÄÃû³Æ£»
+g£® ÖØÒªµÄÊ¹ÓÃËµÃ÷£¬ÈçÀàµÄµ÷ÓÃ·½·¨¡¢×¢ÒâÊÂÏîµÈ£»
+²Î¿¼Àý×ÓÈçÏÂ£º
+```
+<?php
+//
+// +---------------------------------------------------------+
+// | PHP version 4.0                                         |
+// +---------------------------------------------------------+
+// | Copyright (c) 1997-2001 The PHP Group                   |
+// +---------------------------------------------------------+
+// | This source file is subject to  of the PHP license,     |
+// | that is bundled with this packafile LICENSE, and is     |
+// | available at through the world-web at                   |
+// | http://www.php.net/license/2_02.txt.                    |
+// | If you did not receive a copy of the  and are unable to |
+// | obtain it through the world-wide-web,end a note to      |
+// | license@php.net so we can mail you a immediately.       |
+// +---------------------------------------------------------+
+// | Authors: Stig Bakken <ssb@fast.no>                      |
+// |          Tomas V.V.Cox <cox@idecnet.com>                |
+// |                                                         |
+// +---------------------------------------------------------+
+//
+// $Id: Common.php,v 1.8.2.3 2001/11/13 01:26:48 ssb Exp $
+```
+### 3.2 ÀàµÄ×¢ÊÍ
+ÀàµÄ×¢ÊÍ²ÉÓÃÀïÃæµÄ²Î¿¼Àý×Ó·½Ê½£º
+```
+/** 
+* @ Purpose: 
+* ·ÃÎÊÊý¾Ý¿âµÄÀà£¬ÒÔODBC×÷ÎªÍ¨ÓÃ·ÃÎÊ½Ó¿Ú 
+* @Package Name: Database 
+* @Author: Forrest Gump gump@crtvu.edu.cn 
+* @Modifications: 
+* No20020523-100: 
+* odbc_fetch_into()²ÎÊýÎ»ÖÃµÚ¶þºÍµÚÈý¸öÎ»ÖÃµ÷»» 
+* John Johnson John@crtvu.edu.cn 
+* @See: (²ÎÕÕ) 
+*/ 
+
+class Database 
+{ 
+¡­¡­ 
+}
+```
+### 3.3 º¯ÊýºÍ·½·¨µÄ×¢ÊÍ
+º¯ÊýºÍ·½·¨µÄ×¢ÊÍÐ´ÔÚº¯ÊýºÍ·½·¨µÄÇ°Ãæ£¬²ÉÓÃÀàËÆÏÂÃæÀý×ÓµÄ¹æÔò£º
+```
+/** 
+* @Purpose: 
+* Ö´ÐÐÒ»´Î²éÑ¯ 
+* @Method Name: Query()
+* 
+* @Param: string $queryStr SQL²éÑ¯×Ö·û´® 
+* @Param: string $username ÓÃ»§Ãû
+* 
+* @Author: Michael Lee
+*
+* @Return: mixed ²éÑ¯·µ»ØÖµ£¨½á¹û¼¯¶ÔÏó£© 
+*/ 
+
+function£¨$queryStr,$username£©
+{¡­¡­}
+```
+### 3.4 ±äÁ¿»òÕßÓï¾ä×¢ÊÍ
+³ÌÐòÖÐ±äÁ¿»òÕßÓï¾äµÄ×¢ÊÍ×ñÑ­ÒÔÏÂÔ­Ôò£º
+a£® Ð´ÔÚ±äÁ¿»òÕßÓï¾äµÄÇ°ÃæÒ»ÐÐ£¬¶ø²»Ð´ÔÚÍ¬ÐÐ»òÕßºóÃæ£»
+b£® ×¢ÊÍ²ÉÓÃ/* */µÄ·½Ê½£»
+c£® Ã¿¸öº¯ÊýÇ°ÃæÒª°üº¬Ò»¸ö×¢ÊÍ¿é¡£ÄÚÈÝ°üÀ¨º¯Êý¹¦ÄÜ¼òÊö£¬ÊäÈë/Êä³ö²ÎÊý£¬Ô¤ÆÚµÄ·µ»ØÖµ£¬³ö´í´úÂë¶¨Òå¡£
+d£® ×¢ÊÍÍêÕû¹æ·¶¡£
+e£® °ÑÒÑ¾­×¢ÊÍµôµÄ´úÂëÉ¾³ý£¬»òÕß×¢Ã÷ÕâÐ©ÒÑ¾­×¢ÊÍµôµÄ´úÂëÈÔÈ»±£ÁôÔÚÔ´ÂëÖÐµÄÌØÊâÔ­Òò¡£
+f£®
+Àý×Ó£º
+```
+/** 
+* @Purpose: 
+* Êý¾Ý¿âÁ¬½ÓÓÃ»§Ãû 
+* @Attribute/Variable Name: db_user_name 
+* @Type: string 
+*/ 
+var db_user_name;
+```
+## 4 ±äÁ¿¶¨Òå
+php´úÂë±àÐ´ÒªÇóËùÓÐµÄ±äÁ¿¾ùÐèÒªÏÈÉêÃ÷ºóÊ¹ÓÃ£¬·ñÔò»áÓÐ´íÎóÐÅÏ¢£¬¶ÔÓÚÊý×é£¬ÔÚÊ¹ÓÃÒ»¸ö²»È·¶¨µÄkeyÊ±£¬±ÈÈçÏÈ½øÐÐisset()µÄÅÐ¶Ï£¬È»ºóÔÙÊ¹ÓÃ£»±ÈÈçÏÂÃæµÄ´úÂë£º
+```
+$array £½ array();
+$var £½ isset($array[3]) ? $array[3] : ¡°¡±£»
+```
+**ËµÃ÷£º±¾¹æ·¶ÌØÎªphp183 àËÒ×¹ºÉÌ³ÇÏîÄ¿Ð¡×éÖÆ¶¨£¬ÑÏ½ûÇÖÈ¨£¬·ñÔòÒÀ·¨×·¾¿ÔðÈÎ£¡£¡£¡**
