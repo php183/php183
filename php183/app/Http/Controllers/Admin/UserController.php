@@ -80,7 +80,7 @@ class UserController extends Controller
 		);
 		if($res)
 		{
-			return redirect('/admin/user/index');
+			return redirect('/admin/user/index?num=2&keywords=%&page=1')->with(['info'=>'添加成功'] );
 		}else
 		{
 			return back()->with(['info'=>'添加失败']);
@@ -89,8 +89,16 @@ class UserController extends Controller
     }
 
     //用户列表
-    public function index()
+    public function index(Request $request)
     {
-    	return '用户列表';
+
+        $num = $request->num;
+        $keywords = $request->keywords;
+    	//查询数据库
+       $data = \DB::table('users')->where('name','like','%'.$keywords.'%')->paginate($num);
+       // dd($request->all());
+       //给前台页面发送数据
+       return view('admin.user.index',['request' => $request->all() , 'title'=>'用户列表' , 'data' => $data]);
+       // return view('admin.user.index',['request' => $request->all() ,                       'data' => $data]);
     }
 }
