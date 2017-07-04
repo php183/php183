@@ -12,5 +12,6 @@ class LoginController extends Controller
     	// echo '1111';
 
     	return view('home.login.login');
+    	
     }
 }

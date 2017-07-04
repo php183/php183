@@ -3,7 +3,7 @@
 <![endif]--><!--[if gt IE 9]>
 <!--><html><!--<![endif]--><head>	
 <meta charset="utf-8" />	
-	<title>登录 - 嗨易购</title> <meta name="description" content="嗨易购是白领女性时尚消费品牌，为超过1亿注册用户提供导购信息。建立300万全球女性时尚品牌商品库，超过1000家全球品牌达成官方合作导购体验，更好的满足白领女性的时尚消费需求。" /> 
+	<title>注册 - 嗨易购</title> <meta name="description" content="嗨易购是白领女性时尚消费品牌，为超过1亿注册用户提供导购信息。建立300万全球女性时尚品牌商品库，超过1000家全球品牌达成官方合作导购体验，更好的满足白领女性的时尚消费需求。" /> 
 <meta name="keywords" content="嗨易购,嗨易购官网,嗨易购首页,嗨易购登录,导购,白领,女装,网购" />	
 	<link rel="dns-prefetch" href="//static.meilishuo.net/">	
 		<link rel="dns-prefetch" href="//s6.mogucdn.com/">	<link rel="dns-prefetch" href="//s7.mogucdn.com/">	
@@ -32,33 +32,34 @@
 				</div>
 				<div class="right-box">	
 				<p class="title">	
-					登录嗨易购		
-					<a href="/home/sign" class="register">新用户注册</a>
+					新用户注册		
+					<a href="/home/login" class="register">登录</a>
 				</p>	
 				<form onsubmit="return false">		
-				<div action="/home/index" class="form">			
+				<div action="" class="form">			
 					<p class="error-tips" id="errorTip"></p>		
 				<div class="item">				
 					<input type="text" id="phone" class="ui-input phone" placeholder="手机号/邮箱/用户名">	
 				</div>			
 				<div class="item">				
 					<input type="password" id="password" class="ui-input password" placeholder="密码">		
-				</div>			
-				<div class="img-code" id="imgCode">
-					<input type="text" name="name" class="ui-input password" placeholder="请输入验证码">	
-					<p>		请输入验证码	</p>	
-					
-				</div>			
+				</div>
 				<div class="item">				
-				<input type="submit" name="submit" value="立即登录" class="submit">
+					<input type="password" id="password" class="ui-input password" placeholder="确认密码">		
+				</div>			
+						
+				<div class="item">				
+				<input type="submit" name="submit" value="立即注册" class="submit">
 				</div>			
 				<div class="item">				
 					<label>					
 						<input type="checkbox" value="1" name="read" class="check" id="remenber" checked="checked">					记住我				
 					</label>				
-						<a target="_blank" href="/account/findPwd" class="forget">忘记密码</a>			
+							
 				</div>
-						</div>	</form>
+						
+			</div>
+		</form>
 				<div class="fast_login">		
 						<h3>无需注册，即可登录</h3>		
 				<div class="fast_way">			

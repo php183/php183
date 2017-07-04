@@ -46,3 +46,7 @@ Route::get('/kit/captcha/{tmp}', 'Admin\KitController@captcha');
 
 // 前台登录
 Route::get('/home/login', "Home\LoginController@login");
+//前台注册
+Route::get('/home/sign', "Home\SignController@sign");
+Route::post('/home/dologn', "Home\SignController@dologn");
+
