@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                   趁着年轻,来一场旅行
                 </div>
 
                 <div class="links">
