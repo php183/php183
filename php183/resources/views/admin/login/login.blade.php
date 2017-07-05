@@ -47,7 +47,7 @@
         <span class="glyphicon glyphicon-lock form-control-feedback"></span>
       </div>
       <div class="form-group has-feedback">
-        <input type="text" name="code" width="15px;" class="form-control" placeholder="验证码" >
+        <input type="text" name="code" width="15px;" class="form-control" placeholder="验证码" >&nbsp;&nbsp;
         <span class="glyphicon glyphicon-envelope form-control-feedback"></span><br/>
          <a onclick="javascript:re_captcha();" ><img src="{{ URL('kit/captcha/1') }}"  alt="验证码" title="刷新图片" width="100" height="40" id="c2c98f0de5a04167a9e427d883690ff6" border="0"></a>
       </div>

@@ -20,7 +20,7 @@ class LoginController extends Controller
 		// 验证是否记住我
 		$remember_token = \Cookie::get('remember_token');
 		if($remember_token)
-		{	$admin = \DB::table('users')->where('remember_token',$remember_token)->first();
+		{	$admin = \DB::table('user_t')->where('remember_token',$remember_token)->first();
 
 		// 存入session
 		session(['master' => $admin]);
@@ -35,7 +35,7 @@ class LoginController extends Controller
 		}
 
 		// 查询用户
-		$user = \DB::table('users')->where('name',$data['name'])->first();
+		$user = \DB::table('user_t')->where('name',$data['name'])->first();
 		// 判断
 		if(!$user)
 		{

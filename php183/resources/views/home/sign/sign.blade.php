@@ -35,43 +35,27 @@
 					新用户注册		
 					<a href="/home/login" class="register">登录</a>
 				</p>	
-				<form onsubmit="return false">		
-				<div action="" class="form">			
-					<p class="error-tips" id="errorTip"></p>		
+				<form  action="{{ url('/home/sign/insert') }}" method="post">		
+				 {{ csrf_field() }}		
+				   <p class="error-tips" id="errorTip"></p>
+				 @if(session('info'))
+         		   <p class="text-danger">{{ session('info') }}</p>
+   				 @endif
 				<div class="item">				
-					<input type="text" id="phone" class="ui-input phone" placeholder="手机号/邮箱/用户名">	
-				</div>			
-				<div class="item">				
-					<input type="password" id="password" class="ui-input password" placeholder="密码">		
-				</div>
-				<div class="item">				
-					<input type="password" id="password" class="ui-input password" placeholder="确认密码">		
-				</div>			
-						
-				<div class="item">				
-				<input type="submit" name="submit" value="立即注册" class="submit">
-				</div>			
-				<div class="item">				
-					<label>					
-						<input type="checkbox" value="1" name="read" class="check" id="remenber" checked="checked">					记住我				
-					</label>				
-							
-				</div>
-						
-			</div>
-		</form>
-				<div class="fast_login">		
-						<h3>无需注册，即可登录</h3>		
-				<div class="fast_way">			
-					<a href="/user/connect/qq" class="qq_way"></a>		
-					<a href="/user/connect/sina" class="sina_way"></a>			
-					<a href="/user/connect/weixin" class="weixin_way"></a>	
+					<input type="text" name="name" value="{{ old('name')}}"  class="ui-input password" placeholder="请输入用户名">	
 				</div>	
-			   </div>
-			  </div>			
-			 </div>
-			</div>
-				
-
-	</body>
+				<div class="item">				
+					<input type="password" name="password1" value="{{ old('password1')}}"  class="ui-input password" placeholder="确认密码">		
+				</div>			
+				<div class="item">				
+					<input type="password" name="password" value="{{ old('password')}}" class="ui-input password" placeholder="密码">		
+				</div>			
+				<div class="item">				
+				<input type="submit" value="立即注册" class="submit">	
+			</form>
+	  </div>			
+	 </div>
+	</div>
+		
+ </body>
 </html>

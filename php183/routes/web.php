@@ -56,12 +56,18 @@ Route::post('/admin/dologin', "Admin\LoginController@dologin");
 Route::get('/admin/logout', "Admin\LoginController@logout");
 // 验证码
 Route::get('/kit/captcha/{tmp}', 'Admin\KitController@captcha');
+// 发送邮件
+Route::get('/send','Admin\MaidController@send');
 
 
 // 前台登录
 Route::get('/home/login', "Home\LoginController@login");
+Route::post('/home/dologin', "Home\LoginController@dologin");
+
+
 //前台注册
 Route::get('/home/sign', "Home\SignController@sign");
-Route::post('/home/dologn', "Home\SignController@dologn");
+Route::post('/home/sign/insert','Home\SignController@insert');
+
 
 >>>>>>> d24064ab3e687398db55ebc08ee58a706301cb2c

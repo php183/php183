@@ -84,8 +84,8 @@ class UserController extends Controller
     {
 
     	$this->validate($request, [
-    		'name' => 'required|unique:users|min:6|max:18',
-    		'email' => 'email|unique:users',
+    		'name' => 'required|unique:user_t|min:6|max:18',
+    		'email' => 'email|unique:user_t',
     		'password' => 'required',
     		're_password' => 'required|same:password',
     		'avatar' => 'required'
@@ -164,7 +164,7 @@ class UserController extends Controller
     }
 =======
     	// 执行添加
-    	$res = \DB::table('users')->insert(
+    	$res = \DB::table('user_t')->insert(
     		$data
     		);
 
@@ -185,7 +185,7 @@ class UserController extends Controller
 
     	//return '用户列表';
         // 查询数据库
-       $data = \DB::table('users')->where('name','like', '%'.$keywords.'%')->get();
+       $data = \DB::table('user_t')->where('name','like', '%'.$keywords.'%')->get();
        // dd($data);
 
 
@@ -195,7 +195,7 @@ class UserController extends Controller
     // edit
     public function edit($id){
 
-        $data = \DB::table('users')->where('id',$id)->first();
+        $data = \DB::table('user_t')->where('id',$id)->first();
         // dd($data);
         return view('admin.user.edit',['data' => $data]);
         // echo 111;
@@ -207,7 +207,7 @@ class UserController extends Controller
         $data = $require ->except('_token');
 
         // 查询老照片
-    $user  =  \DB::table('users')->where('id',$data['id'])->first();
+    $user  =  \DB::table('user_t')->where('id',$data['id'])->first();
         dd($user); 
 
         if($request->file('avatar')->isValid()){

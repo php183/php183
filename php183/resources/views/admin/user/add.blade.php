@@ -117,11 +117,11 @@
                 </div>
                 <div class="form-group">
                   <label for="exampleInputEmail1">邮箱</label>
-                  <input type="email" name="email" value="{{ old('password') }}" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+                  <input type="email" name="email" value="{{ old('email') }}" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
                 </div>
                 <div class="form-group">
                   <label for="exampleInputPassword1">密码</label>
-                  <input type="password" name="password" value="{{ old('name')}}" class="form-control" id="exampleInputPassword1" placeholder="Password">
+                  <input type="password" name="password" value="{{ old('password')}}" class="form-control" id="exampleInputPassword1" placeholder="Password">
                 </div>
                 <div class="form-group">
                   <label for="exampleInputPassword2">请再次输入密码</label>
