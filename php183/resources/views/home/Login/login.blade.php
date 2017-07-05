@@ -35,41 +35,53 @@
 					登录嗨易购		
 					<a href="/home/sign" class="register">新用户注册</a>
 				</p>	
-				<form onsubmit="return false">		
-				<div action="/home/index" class="form">			
+				<form action="/home/dologin" method="post">		 {{ csrf_field() }}
+				<div  class="form">			
 					<p class="error-tips" id="errorTip"></p>		
-				<div class="item">				
-					<input type="text" id="phone" class="ui-input phone" placeholder="手机号/邮箱/用户名">	
+				<div class="item">	
+				 @if(session('info'))
+          			<p class="text-danger">{{ session('info') }}</p>
+  			     @endif			
+					<input type="text" name="name" class="ui-input phone" placeholder="请输入用户名">	
 				</div>			
 				<div class="item">				
-					<input type="password" id="password" class="ui-input password" placeholder="密码">		
-				</div>			
-				<div class="img-code" id="imgCode">
-					<input type="text" name="name" class="ui-input password" placeholder="请输入验证码">	
-					<p>		请输入验证码	</p>	
-					
-				</div>			
+					<input type="password" name="password" class="ui-input password" placeholder="密码">		
+				</div>	<br/>		
+				<div class="form-group has-feedback">
+			       <input type="text" name="code" width="15px;" class="ui-input yanzhengma" placeholder="验证码" >
+			       &nbsp;&nbsp;
+			       <a onclick="javascript:re_captcha();" ><img src="{{ URL('kit/captcha/1') }}"  alt="验证码" title="刷新图片" width="100" height="40" id="c2c98f0de5a04167a9e427d883690ff6" border="0"></a>
+      			</div>	
 				<div class="item">				
 				<input type="submit" name="submit" value="立即登录" class="submit">
 				</div>			
 				<div class="item">				
 					<label>					
-						<input type="checkbox" value="1" name="read" class="check" id="remenber" checked="checked">					记住我				
+						<input type="checkbox" value="1" name="read" class="check" id="remenber">					记住我				
 					</label>				
 						<a target="_blank" href="/account/findPwd" class="forget">忘记密码</a>			
 				</div>
-						</div>	</form>
-				<div class="fast_login">		
-						<h3>无需注册，即可登录</h3>		
-				<div class="fast_way">			
-					<a href="/user/connect/qq" class="qq_way"></a>		
-					<a href="/user/connect/sina" class="sina_way"></a>			
-					<a href="/user/connect/weixin" class="weixin_way"></a>	
-				</div>	
-			   </div>
-			  </div>			
-			 </div>
-			</div>
+			</div>	
+		</form>
+		   <script>	
+			 $(function () {
+	   		 $('input').iCheck({
+	     	 checkboxClass: 'icheckbox_square-blue',
+	    	  radioClass: 'iradio_square-blue',
+	     	 increaseArea: '20%' // optional
+	  	  });
+	 	 });
+			// 点击生成新的验证码
+				 function re_captcha() {
+				 $url = "{{ URL('kit/captcha') }}";
+				 $url = $url + "/" + Math.random();
+				 document.getElementById('c2c98f0de5a04167a9e427d883690ff6').src=$url;
+			  }
+		   </script>
+	   </div>
+	  </div>			
+	 </div>
+	</div>
 				
 
 	</body>
