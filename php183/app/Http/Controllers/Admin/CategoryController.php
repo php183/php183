@@ -25,9 +25,9 @@ class CategoryController extends Controller
     public function create() 
     {
         //
-        $data = \DB::table('category')->select("*",\DB::raw("concat(path,',',id) AS sort_path"))->orderBy('sort_path')->get();
+        $data = \DB::table('goods_cat_t')->select("*",\DB::raw("concat(cid,',',id) AS sort_cid"))->orderBy('sort_cid')->get();
         foreach ($data as $key => $val) {
-           $num = substr_count($val->path,',');
+           $num = substr_count($val->cid,',');
            $data[$key]->name = str_repeat('---|', $num).$data[$key]->name;
         }
         return view('admin.category.add',['title'=>'分类添加','data'=>$data]);
@@ -46,19 +46,19 @@ class CategoryController extends Controller
         $data = $request->except("_token");
 
         if($data['pid'] == 0){
-            $data['path'] = 0;
+            $data['cid'] = 0;
             $data['status']=1;
         }else{
-            // 查询父path
-            $path = \DB::table('category')->where('id',$data['pid'])->first()->path;
-            // dd($path);
+            // 查询父cid
+            $cid = \DB::table('goods_cat_t')->where('id',$data['pid'])->first()->cid;
+            // dd($cid);
             // 拼接数组
-            $data['path'] = $parent_path.','.$data['pid'];
+            $data['cid'] = $parent_cid.','.$data['pid'];
             $data['status']=1;
         }
 
         // 插入数据
-        $res = \DB::table('category')->insert($date);
+        $res = \DB::table('goods_cat_t')->insert($date);
 
         if($res)
         {
