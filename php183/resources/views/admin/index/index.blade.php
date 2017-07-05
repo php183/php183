@@ -1,14 +1,29 @@
 @extends('admin.layout')
 
+<<<<<<< HEAD
 @section('content')
 
       <!-- Content Wrapper. Contains page content -->
+=======
+
+@section('content')
+
+ <!-- Content Wrapper. Contains page content -->
+>>>>>>> d24064ab3e687398db55ebc08ee58a706301cb2c
   <div class="content-wrapper">
     <!-- Content Header (Page header) -->
     <section class="content-header">
       <h1>
         Dashboard
+<<<<<<< HEAD
         <small>Control panel</small>
+=======
+        <small>
+          @if(session('info'))
+            <p class="text-info">{{ session('info') }}</p>
+          @endif
+        </small>
+>>>>>>> d24064ab3e687398db55ebc08ee58a706301cb2c
       </h1>
       <ol class="breadcrumb">
         <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
@@ -120,7 +135,13 @@
             <div class="box-body chat" id="chat-box">
               <!-- chat item -->
               <div class="item">
+<<<<<<< HEAD
                 <img src="{{ asset('adminlte/dist/img/user4-128x128.jpg')}}" alt="user image" class="online">
+=======
+                <img src=" {{ asset('/admin/admin/
+dist/img/user4-128x128.jpg') }}"
+ alt="user image" class="online">
+>>>>>>> d24064ab3e687398db55ebc08ee58a706301cb2c
 
                 <p class="message">
                   <a href="#" class="name">
@@ -147,7 +168,13 @@
               <!-- /.item -->
               <!-- chat item -->
               <div class="item">
+<<<<<<< HEAD
                 <img src="{{ asset('adminlte/dist/img/user3-128x128.jpg')}}" alt="user image" class="offline">
+=======
+                <img src=" {{ asset('/admin/admin/
+dist/img/user3-128x128.jpg') }}"
+ alt="user image" class="offline">
+>>>>>>> d24064ab3e687398db55ebc08ee58a706301cb2c
 
                 <p class="message">
                   <a href="#" class="name">
@@ -162,7 +189,13 @@
               <!-- /.item -->
               <!-- chat item -->
               <div class="item">
+<<<<<<< HEAD
                 <img src="{{ asset('adminlte/dist/img/user2-160x160.jpg')}}" alt="user image" class="offline">
+=======
+                <img src=" {{ asset('/admin/admin/
+dist/img/user2-160x160.jpg') }}"
+ alt="user image" class="offline">
+>>>>>>> d24064ab3e687398db55ebc08ee58a706301cb2c
 
                 <p class="message">
                   <a href="#" class="name">
@@ -513,5 +546,11 @@
     </section>
     <!-- /.content -->
   </div>
+<<<<<<< HEAD
   <!-- /.content-wrapper -->
 @endsection('content')
+=======
+
+
+@endsection
+>>>>>>> d24064ab3e687398db55ebc08ee58a706301cb2c
