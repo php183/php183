@@ -41,7 +41,7 @@ return [
 
         'mysql' => [
             'driver' => 'mysql',
-            'host' => env('DB_HOST', '192.168.183.29'),
+            'host' => env('DB_HOST', '127.0.0.1'),
             'port' => env('DB_PORT', '3306'),
             'database' => env('DB_DATABASE', 'forge'),
             'username' => env('DB_USERNAME', 'forge'),
@@ -49,15 +49,7 @@ return [
             'unix_socket' => env('DB_SOCKET', ''),
             'charset' => 'utf8',
             'collation' => 'utf8_unicode_ci',
-<<<<<<< HEAD
-<<<<<<< HEAD
             'prefix' => '',
-=======
-            'prefix' => 'P_',
->>>>>>> d24064ab3e687398db55ebc08ee58a706301cb2c
-=======
-            'prefix' => '',
->>>>>>> 9935b296de88fab4ab6dfb6827ea66544c9542c5
             'strict' => true,
             'engine' => null,
         ],
