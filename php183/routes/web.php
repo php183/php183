@@ -11,6 +11,7 @@
 |
 */
 
+<<<<<<< HEAD
 
 
 
@@ -57,3 +58,5 @@ Route::post('/home/sign/insert','Home\SignController@insert');
 
 
 
+=======
+>>>>>>> 24c5fd09d391de9a7c430339acc4e71622e3e172
