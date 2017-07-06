@@ -10,28 +10,14 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-//Route 类	get 请求方法	view函数(用来解析模板)
-Route::get('/', function () {
-    return view('welcome');
-<<<<<<< HEAD
-});
 
-//后台主页
-Route::get('/admin/index','Admin\IndexController@index');
-Route::get('/admin/user/add','Admin\UserController@add');
 
-//用户管理
-Route::post('/admin/user/insert','Admin\UserController@insert');
-Route::get('/admin/user/index','Admin\UserController@index');
+
 
 //分类管理
 Route::resource('/admin/category','Admin\CategoryController');
-=======
+
     
-});
-
-
-
 // 路由群体
 Route::group(['middleware' => 'adminlogin'],function(){
 
@@ -70,4 +56,4 @@ Route::get('/home/sign', "Home\SignController@sign");
 Route::post('/home/sign/insert','Home\SignController@insert');
 
 
->>>>>>> d24064ab3e687398db55ebc08ee58a706301cb2c
+
