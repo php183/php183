@@ -30,14 +30,14 @@
 
             <!-- /.box-header -->
             <!-- form start -->
-            <form role="form" method="post" action="{{ url('/admin/category')}}" enctype="multipart/form-data">
+            <form role="form" method="post" action="{{ url('/admin/category/store')}}" enctype="multipart/form-data">
             {{ csrf_field() }}
               <div class="box-body">
               
 
 			       @if (session('info'))
 					    <div class="alert alert-danger">
-					       {{session('info')}}
+					       {{ session('info') }}
 					    </div>
 					@endif
 
@@ -59,7 +59,7 @@
                 <label for="exampleInputName">父分类</label>
                 <select name="pid" class="form-control">
 	                @foreach($data as $key=>$val)
-	                <option value="{{ $val->id}}">{{ $val->name}}</option>
+	                <option value="{{ $val->id}}">{{ $val->name }}</option>
 	                @endforeach
                 </select>
                 </div>

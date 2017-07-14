@@ -79,11 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-<<<<<<< HEAD
-                    Further
-=======
                    趁着年轻,来一场旅行
->>>>>>> d24064ab3e687398db55ebc08ee58a706301cb2c
                 </div>
 
                 <div class="links">

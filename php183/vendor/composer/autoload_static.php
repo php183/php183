@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInit5c1b45dab6cf8e39f289df38084cdd7c
+class ComposerStaticInitd0455e32a5a8a6a077af432709b5f106
 {
     public static $files = array (
         '0e6d7bf4a5811bfa5cf40c5ccd6fae6a' => __DIR__ . '/..' . '/symfony/polyfill-mbstring/bootstrap.php',
@@ -74,6 +74,10 @@ class ComposerStaticInit5c1b45dab6cf8e39f289df38084cdd7c
         'I' => 
         array (
             'Illuminate\\' => 11,
+        ),
+        'G' => 
+        array (
+            'Gregwar\\Captcha\\' => 16,
         ),
         'F' => 
         array (
@@ -208,6 +212,10 @@ class ComposerStaticInit5c1b45dab6cf8e39f289df38084cdd7c
         array (
             0 => __DIR__ . '/..' . '/laravel/framework/src/Illuminate',
         ),
+        'Gregwar\\Captcha\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/gregwar/captcha',
+        ),
         'Faker\\' => 
         array (
             0 => __DIR__ . '/..' . '/fzaninotto/faker/src/Faker',
@@ -288,8 +296,11 @@ class ComposerStaticInit5c1b45dab6cf8e39f289df38084cdd7c
     public static $classMap = array (
         'App\\Console\\Kernel' => __DIR__ . '/../..' . '/app/Console/Kernel.php',
         'App\\Exceptions\\Handler' => __DIR__ . '/../..' . '/app/Exceptions/Handler.php',
-        'App\\Http\\Controllers\\Admin\\CategoryController' => __DIR__ . '/../..' . '/app/Http/Controllers/Admin/CategoryController.php',
         'App\\Http\\Controllers\\Admin\\IndexController' => __DIR__ . '/../..' . '/app/Http/Controllers/Admin/IndexController.php',
+        'App\\Http\\Controllers\\Admin\\KitController' => __DIR__ . '/../..' . '/app/Http/Controllers/Admin/KitController.php',
+        'App\\Http\\Controllers\\Admin\\LoginController' => __DIR__ . '/../..' . '/app/Http/Controllers/Admin/LoginController.php',
+        'App\\Http\\Controllers\\Admin\\MailController' => __DIR__ . '/../..' . '/app/Http/Controllers/Admin/MailController.php',
+        'App\\Http\\Controllers\\Admin\\RequestController' => __DIR__ . '/../..' . '/app/Http/Controllers/Admin/RequestController.php',
         'App\\Http\\Controllers\\Admin\\UserController' => __DIR__ . '/../..' . '/app/Http/Controllers/Admin/UserController.php',
         'App\\Http\\Controllers\\Auth\\ForgotPasswordController' => __DIR__ . '/../..' . '/app/Http/Controllers/Auth/ForgotPasswordController.php',
         'App\\Http\\Controllers\\Auth\\LoginController' => __DIR__ . '/../..' . '/app/Http/Controllers/Auth/LoginController.php',
@@ -299,11 +310,15 @@ class ComposerStaticInit5c1b45dab6cf8e39f289df38084cdd7c
         'App\\Http\\Controllers\\Home\\TestController' => __DIR__ . '/../..' . '/app/Http/Controllers/Home/TestController.php',
         'App\\Http\\Controllers\\StuController' => __DIR__ . '/../..' . '/app/Http/Controllers/StuController.php',
         'App\\Http\\Controllers\\TestController' => __DIR__ . '/../..' . '/app/Http/Controllers/TestController.php',
+        'App\\Http\\Controllers\\home\\LoginController' => __DIR__ . '/../..' . '/app/Http/Controllers/Home/LoginController.php',
+        'App\\Http\\Controllers\\home\\SignController' => __DIR__ . '/../..' . '/app/Http/Controllers/Home/SignController.php',
         'App\\Http\\Kernel' => __DIR__ . '/../..' . '/app/Http/Kernel.php',
         'App\\Http\\Middleware\\EncryptCookies' => __DIR__ . '/../..' . '/app/Http/Middleware/EncryptCookies.php',
+        'App\\Http\\Middleware\\LoginWareMiddelWare' => __DIR__ . '/../..' . '/app/Http/Middleware/LoginWareMiddelWare.php',
         'App\\Http\\Middleware\\RedirectIfAuthenticated' => __DIR__ . '/../..' . '/app/Http/Middleware/RedirectIfAuthenticated.php',
         'App\\Http\\Middleware\\TrimStrings' => __DIR__ . '/../..' . '/app/Http/Middleware/TrimStrings.php',
         'App\\Http\\Middleware\\VerifyCsrfToken' => __DIR__ . '/../..' . '/app/Http/Middleware/VerifyCsrfToken.php',
+        'App\\Http\\Middleware\\adminloginMiddleware' => __DIR__ . '/../..' . '/app/Http/Middleware/adminloginMiddleware.php',
         'App\\Providers\\AppServiceProvider' => __DIR__ . '/../..' . '/app/Providers/AppServiceProvider.php',
         'App\\Providers\\AuthServiceProvider' => __DIR__ . '/../..' . '/app/Providers/AuthServiceProvider.php',
         'App\\Providers\\BroadcastServiceProvider' => __DIR__ . '/../..' . '/app/Providers/BroadcastServiceProvider.php',
@@ -346,15 +361,7 @@ class ComposerStaticInit5c1b45dab6cf8e39f289df38084cdd7c
         'Carbon\\Carbon' => __DIR__ . '/..' . '/nesbot/carbon/src/Carbon/Carbon.php',
         'Carbon\\CarbonInterval' => __DIR__ . '/..' . '/nesbot/carbon/src/Carbon/CarbonInterval.php',
         'Carbon\\Exceptions\\InvalidDateException' => __DIR__ . '/..' . '/nesbot/carbon/src/Carbon/Exceptions/InvalidDateException.php',
-        'CreateCategoryTable' => __DIR__ . '/../..' . '/database/migrations/2017_06_30_061214_create_category_table.php',
-        'CreateGoodsAttTTable' => __DIR__ . '/../..' . '/database/migrations/2017_07_05_025629_create_goods_att_t_table.php',
-        'CreateGoodsCatTTable' => __DIR__ . '/../..' . '/database/migrations/2017_07_05_025537_create_goods_cat_t_table.php',
-        'CreateGoodsInfoTTable' => __DIR__ . '/../..' . '/database/migrations/2017_07_05_025857_create_goods_info_t_table.php',
-        'CreateGoodsPicTTable' => __DIR__ . '/../..' . '/database/migrations/2017_07_05_025814_create_goods_pic_t_table.php',
-        'CreateGoodsSelTTable' => __DIR__ . '/../..' . '/database/migrations/2017_07_05_030016_create_goods_sel_t_table.php',
-        'CreateGoodsTTable' => __DIR__ . '/../..' . '/database/migrations/2017_07_05_025434_create_goods_t_table.php',
-        'CreateGoodsTypTTable' => __DIR__ . '/../..' . '/database/migrations/2017_07_05_025600_create_goods_typ_t_table.php',
-        'CreateGoodsValTTable' => __DIR__ . '/../..' . '/database/migrations/2017_07_05_025742_create_goods_val_t_table.php',
+        'CreateCategoryTable' => __DIR__ . '/../..' . '/database/migrations/2017_07_05_030537_create_category_table.php',
         'CreatePasswordResetsTable' => __DIR__ . '/../..' . '/database/migrations/2014_10_12_100000_create_password_resets_table.php',
         'CreateUsersTable' => __DIR__ . '/../..' . '/database/migrations/2014_10_12_000000_create_users_table.php',
         'Cron\\AbstractField' => __DIR__ . '/..' . '/mtdowling/cron-expression/src/Cron/AbstractField.php',
@@ -850,6 +857,11 @@ class ComposerStaticInit5c1b45dab6cf8e39f289df38084cdd7c
         'File_Iterator' => __DIR__ . '/..' . '/phpunit/php-file-iterator/src/Iterator.php',
         'File_Iterator_Facade' => __DIR__ . '/..' . '/phpunit/php-file-iterator/src/Facade.php',
         'File_Iterator_Factory' => __DIR__ . '/..' . '/phpunit/php-file-iterator/src/Factory.php',
+        'Gregwar\\Captcha\\CaptchaBuilder' => __DIR__ . '/..' . '/gregwar/captcha/CaptchaBuilder.php',
+        'Gregwar\\Captcha\\CaptchaBuilderInterface' => __DIR__ . '/..' . '/gregwar/captcha/CaptchaBuilderInterface.php',
+        'Gregwar\\Captcha\\ImageFileHandler' => __DIR__ . '/..' . '/gregwar/captcha/ImageFileHandler.php',
+        'Gregwar\\Captcha\\PhraseBuilder' => __DIR__ . '/..' . '/gregwar/captcha/PhraseBuilder.php',
+        'Gregwar\\Captcha\\PhraseBuilderInterface' => __DIR__ . '/..' . '/gregwar/captcha/PhraseBuilderInterface.php',
         'Hamcrest\\Arrays\\IsArray' => __DIR__ . '/..' . '/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArray.php',
         'Hamcrest\\Arrays\\IsArrayContaining' => __DIR__ . '/..' . '/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContaining.php',
         'Hamcrest\\Arrays\\IsArrayContainingInAnyOrder' => __DIR__ . '/..' . '/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingInAnyOrder.php',
@@ -1151,6 +1163,7 @@ class ComposerStaticInit5c1b45dab6cf8e39f289df38084cdd7c
         'Illuminate\\Database\\Eloquent\\Relations\\BelongsTo' => __DIR__ . '/..' . '/laravel/framework/src/Illuminate/Database/Eloquent/Relations/BelongsTo.php',
         'Illuminate\\Database\\Eloquent\\Relations\\BelongsToMany' => __DIR__ . '/..' . '/laravel/framework/src/Illuminate/Database/Eloquent/Relations/BelongsToMany.php',
         'Illuminate\\Database\\Eloquent\\Relations\\Concerns\\InteractsWithPivotTable' => __DIR__ . '/..' . '/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Concerns/InteractsWithPivotTable.php',
+        'Illuminate\\Database\\Eloquent\\Relations\\Concerns\\SupportsDefaultModels' => __DIR__ . '/..' . '/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Concerns/SupportsDefaultModels.php',
         'Illuminate\\Database\\Eloquent\\Relations\\HasMany' => __DIR__ . '/..' . '/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasMany.php',
         'Illuminate\\Database\\Eloquent\\Relations\\HasManyThrough' => __DIR__ . '/..' . '/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasManyThrough.php',
         'Illuminate\\Database\\Eloquent\\Relations\\HasOne' => __DIR__ . '/..' . '/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOne.php',
@@ -3309,6 +3322,7 @@ class ComposerStaticInit5c1b45dab6cf8e39f289df38084cdd7c
         'TijsVerkoyen\\CssToInlineStyles\\Css\\Property\\Property' => __DIR__ . '/..' . '/tijsverkoyen/css-to-inline-styles/src/Css/Property/Property.php',
         'TijsVerkoyen\\CssToInlineStyles\\Css\\Rule\\Processor' => __DIR__ . '/..' . '/tijsverkoyen/css-to-inline-styles/src/Css/Rule/Processor.php',
         'TijsVerkoyen\\CssToInlineStyles\\Css\\Rule\\Rule' => __DIR__ . '/..' . '/tijsverkoyen/css-to-inline-styles/src/Css/Rule/Rule.php',
+        'UsersTableSeeder' => __DIR__ . '/../..' . '/database/seeds/UsersTableSeeder.php',
         'Webmozart\\Assert\\Assert' => __DIR__ . '/..' . '/webmozart/assert/src/Assert.php',
         'XdgBaseDir\\Xdg' => __DIR__ . '/..' . '/dnoegel/php-xdg-base-dir/src/Xdg.php',
         'phpDocumentor\\Reflection\\DocBlock' => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src/DocBlock.php',
@@ -3377,10 +3391,10 @@ class ComposerStaticInit5c1b45dab6cf8e39f289df38084cdd7c
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInit5c1b45dab6cf8e39f289df38084cdd7c::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInit5c1b45dab6cf8e39f289df38084cdd7c::$prefixDirsPsr4;
-            $loader->prefixesPsr0 = ComposerStaticInit5c1b45dab6cf8e39f289df38084cdd7c::$prefixesPsr0;
-            $loader->classMap = ComposerStaticInit5c1b45dab6cf8e39f289df38084cdd7c::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInitd0455e32a5a8a6a077af432709b5f106::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInitd0455e32a5a8a6a077af432709b5f106::$prefixDirsPsr4;
+            $loader->prefixesPsr0 = ComposerStaticInitd0455e32a5a8a6a077af432709b5f106::$prefixesPsr0;
+            $loader->classMap = ComposerStaticInitd0455e32a5a8a6a077af432709b5f106::$classMap;
 
         }, null, ClassLoader::class);
     }
